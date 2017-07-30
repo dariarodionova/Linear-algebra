@@ -2,6 +2,7 @@
 ## Scalar _(Скаляр)_
 Just a simple number, ex.:
 ![Formula](/Formulas/f1.png)  
+<br />  
 
 ## Vector _(Вектор)_
 A set of numbers that can identify a point in space.   
