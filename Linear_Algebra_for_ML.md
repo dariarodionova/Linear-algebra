@@ -13,7 +13,7 @@ A set of numbers that can identify a point in space.
 <br />  
 <br />  
 
--	### Unit Vector _(Единичный вектор)_
+-**Unit Vector _(Единичный вектор)_**
 Unit vector is a vector with a unit norm (norm is a function that assigns positive length to a vector). 
 ![Formula](/Formulas/f3.png)    
 ![UnitVectors](/Images/UnitVectors.png) 
