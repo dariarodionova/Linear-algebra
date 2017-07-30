@@ -7,11 +7,10 @@ Just a simple number, ex.:
 
 ## Vector _(Вектор)_
 A set of numbers that can identify a point in space.   
-![Formula](/Formulas/f2.png)   
- 
+![Formula](/Formulas/f2.png)    
+
 ![Vector](/Images/vector.png)
-
-
+<br />  
 
 -	### Unit Vector _(Единичный вектор)_
 	Unit vector is a vector with a unit norm (norm is a function that assigns positive length to a vector). 
