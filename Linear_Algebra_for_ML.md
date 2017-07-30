@@ -13,14 +13,14 @@ A set of numbers that can identify a point in space.
 ![Vector](/Images/vector.png)
 
 
-### Unit Vector _(Единичный вектор)_
-Unit vector is a vector with a unit norm (norm is a function that assigns positive length to a vector).  
-![Formula](/Formulas/f3.png)    
-![UnitVectors](/Images/UnitVectors.png)  
+-	### Unit Vector _(Единичный вектор)_
+	Unit vector is a vector with a unit norm (norm is a function that assigns positive length to a vector).  
+	![Formula](/Formulas/f3.png)    
+	![UnitVectors](/Images/UnitVectors.png)  
 
 
-### Orthogonal vectors _(Ортогональные векторы)_
-Vector **x** and vector **y** are **orthogonal** (perpendicular) to each other if  ![Formula](/Formulas/f4.png) (their dot product equals 0). If both vectors have nonzero norm and their dot product equals 0, then they are perpendicular to each other.   
+-	### Orthogonal vectors _(Ортогональные векторы)_
+	Vector **x** and vector **y** are **orthogonal** (perpendicular) to each other if  ![Formula](/Formulas/f4.png) (their dot product equals 0). If both vectors have nonzero norm and their dot product equals 0, then they are perpendicular to each other.   
 ![OrthogonalVectors](/Images/OrthogonalVectors.png)  
 
 
