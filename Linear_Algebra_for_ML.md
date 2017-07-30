@@ -1,6 +1,6 @@
 
 ## Scalar _(Скаляр)_
-Just a simple number, ex.: 
+Just a simple number, ex.:   
 ![Formula](/Formulas/f1.png)
 
 
