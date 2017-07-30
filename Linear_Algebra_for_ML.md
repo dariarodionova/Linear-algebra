@@ -43,7 +43,7 @@ A matrix is a 2-D set of numbers size of m*n. Ex.:
 # Tensor _(Тензор)_ 
 An array of numbers arranged on a regular grid with a variable number of axes. Ex.: 3-D matrix:  
 ![Formula](/Formulas/f7.png)  
-![Tensor](/Images/tensor.png)
+![Tensor](/Images/Tensor.png)
     
 
 
