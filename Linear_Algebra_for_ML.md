@@ -27,7 +27,7 @@ A set of numbers that can identify a point in space.
     <br />   
     
 -	## Orthonormal vectors _(Ортонормированные векторы)_
-	Vector _**x**_ and vector _**y**_ are orthonormal if they are orthogonal and have unit norm.
+	Vector _**x**_ and vector _**y**_ are **orthonormal** if they are _orthogonal_ and have _unit norm_.
     ![OrthonormalVectors](/Images/OrthonormalVectors.gif)
 
 
