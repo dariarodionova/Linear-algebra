@@ -25,8 +25,8 @@ A set of numbers that can identify a point in space.
 
 
 -	### Orthogonal vectors _(Ортогональные векторы)_
-Vector **x** and vector **y** are **orthogonal** (perpendicular) to each other if  ![Formula](/Formulas/f4.png) (their dot product equals 0). If both vectors have nonzero norm and their dot product equals 0, then they are perpendicular to each other.   
-![OrthogonalVectors](/Images/OrthogonalVectors.png)  
+	Vector **x** and vector **y** are **orthogonal** (perpendicular) to each other if![Formula](/Formulas/f4.png) (their dot product 		equals 0). If both vectors have nonzero norm and their dot product 		equals 0, then they are 			perpendicular to each other.   
+	![OrthogonalVectors](/Images/OrthogonalVectors.png)  
 
 
 
