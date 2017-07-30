@@ -6,17 +6,22 @@ Just a simple number, ex.:
 
 
 
+
+
+
 ## Vector _(Вектор)_
 A set of numbers that can identify a point in space.   
 ![Formula](/Formulas/f2.png)   
-  
+ 
 ![Vector](/Images/vector.png)
 
 
+
 -	### Unit Vector _(Единичный вектор)_
-	Unit vector is a vector with a unit norm (norm is a function that assigns positive length to a vector).  
+	Unit vector is a vector with a unit norm (norm is a function that assigns positive length to a vector). 
 	![Formula](/Formulas/f3.png)    
 	![UnitVectors](/Images/UnitVectors.png)  
+
 
 
 -	### Orthogonal vectors _(Ортогональные векторы)_
