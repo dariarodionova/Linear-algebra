@@ -5,7 +5,7 @@ Just a simple number, ex.:
 
 
 ## Vector _(Вектор)_
-A set of numbers that can identify a point in space. 
+A set of numbers that can identify a point in space.   
 ![Formula](/Formulas/f2.png)   
   
 ![Vector](/Images/vector.png)
