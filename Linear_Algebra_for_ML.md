@@ -28,5 +28,14 @@ A set of numbers that can identify a point in space.
 -	## Orthonormal vectors _(Ортонормированные векторы)_
 	Vector _**x**_ and vector _**y**_ are **orthonormal** if they are _orthogonal_ and have _unit norm_.
     ![OrthonormalVectors](/Images/OrthonormalVectors.gif)
+    <br />  
+    <br />  
+    <br />  
+    
+    # Matrix _(Матрица)_
+    A matrix is a 2-D set of numbers size of m*n. Ex.: 
+    ![Formula](/Formulas/f5.png)  
+    ![Formula](/Formulas/f6.png)  
+    ![Matrix](/Images/Matrix.png)
 
 
