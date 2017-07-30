@@ -36,6 +36,6 @@ A set of numbers that can identify a point in space.
     A matrix is a 2-D set of numbers size of m*n. Ex.: 
     ![Formula](/Formulas/f5.png)  
     ![Formula](/Formulas/f6.png)  
-    ![Matrix](/Images/Matrix.png)
+    ![Matrix](/Images/matrix.png)
 
 
