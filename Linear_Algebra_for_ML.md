@@ -42,7 +42,7 @@ A matrix is a 2-D set of numbers size of m*n. Ex.:
 
 
 -	### Identity matrix _(Единичная матрица)_
-	An identity matrix is such a matrix, that if we multiply a vector on **that matrix**, the vector won't change. It is also such a **square** matrix that has ones on the main diagonal and zeros everywhere else. 
+	An identity matrix is such a matrix, that if we multiply a vector on **that matrix**, the vector won't change. It is also such a **square** matrix that has ones on the main diagonal and zeros everywhere else.  
 	![Formula](/Formulas/f9.png)  
 	![Matrix](/Images/IdentityMatrix.png)
 
