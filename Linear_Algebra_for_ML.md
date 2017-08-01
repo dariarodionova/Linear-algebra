@@ -42,7 +42,7 @@ A matrix is a 2-D set of numbers size of m*n. Ex.:
 
 -	### Symmetric matrix _(Симметричная матрица)_
 A symmetric matrix is a matrix that is equal to it's own transpose.  
-![Formula](/Formulas/f8.png) 
+![Formula](/Formulas/f8.png)  
 ![Matrix](/Images/SymmetricMatrix.gif)
 
 # Tensor _(Тензор)_ 
