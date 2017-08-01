@@ -38,12 +38,14 @@ A matrix is a 2-D set of numbers size of m*n. Ex.:
 ![Formula](/Formulas/f6.png)  
 ![Matrix](/Images/matrix.png)
 <br />  
-<br />  
+<br /> 
+
+-	### Symmetric matrix _(Симметричная матрица)_
+A symmetric matrix is a matrix that is equal to it's own transpose.  
+![Formula](/Formulas/f8.png) 
+![Matrix](/Images/SymmetricMatrix.gif)
 
 # Tensor _(Тензор)_ 
 An array of numbers arranged on a regular grid with a variable number of axes. Ex.: 3-D matrix:  
 ![Formula](/Formulas/f7.png)  
 ![Tensor](/Images/Tensor.png)
-    
-
-
