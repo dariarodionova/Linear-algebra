@@ -48,7 +48,7 @@ A matrix is a 2-D set of numbers size of m*n. Ex.:
 	![Matrix](/Images/IdentityMatrix.png)  
     
 -	### Diagonal matrix _(Диагональная матрица)_
-	Diagonal matrix has values in the main diagonal and zeros everywhere else. Matrix is diagonal **if and only if** Dij = 0 for all i **unequal** to j. A **rectangular** matrix can also be diagonal.     
+	Diagonal matrix has values on the main diagonal and zeros everywhere else. Matrix is diagonal **if and only if** Dij = 0 for all i **unequal** to j. A **rectangular** matrix can also be diagonal.     
 	![Matrix](/Images/DiagonalMatrix.png)
 
 -	### Symmetric matrix _(Симметричная матрица)_
