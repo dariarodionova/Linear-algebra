@@ -1,4 +1,4 @@
-## Linear Algebra visualized cheatsheet
+# Linear Algebra Visualized Cheatsheet
 Are you frustrated about never-ending formulas in math literature?
 Always wanted to know how certain concepts look like, but could barely find any illustrations in books?
 Then we are alike. 
