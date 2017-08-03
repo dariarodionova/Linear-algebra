@@ -51,7 +51,10 @@ A matrix is a 2-D set of numbers size of m*n. Ex.:
 	Diagonal matrix has values on the main diagonal and zeros everywhere else. Matrix is diagonal **if and only if** Dij = 0 for all i **unequal** to j. A **rectangular** matrix can also be diagonal.     
 	![Matrix](/Images/DiagonalMatrix.png)  
     
- -	### Matrix transposex _(Транспонированная матрица)_
+ -	### Matrix transpose _(Транспонированная матрица)_  
+ A transpose is an operation of mirroring a matrix across **main diagonal** (from upper left corner to a lower right corner).
+ ![Matrix](/Images/MatrixTranspose.gif)
+ 
 	
 
 -	### Symmetric matrix _(Симметричная матрица)_
