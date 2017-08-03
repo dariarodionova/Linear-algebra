@@ -52,7 +52,9 @@ A matrix is a 2-D set of numbers size of m*n. Ex.:
 	![Matrix](/Images/DiagonalMatrix.png)  
     
  -	### Matrix transpose _(Транспонированная матрица)_  
- A transpose is an operation of mirroring a matrix across **main diagonal** (from upper left corner to a lower right corner).
+ A transpose is an operation of mirroring a matrix across **main diagonal** (from upper left corner to a lower right corner).  
+ ![Formula](/Formulas/f10.png)  
+ ![Formula](/Formulas/11.png)
  ![Matrix](/Images/MatrixTranspose.gif)
  
 	
