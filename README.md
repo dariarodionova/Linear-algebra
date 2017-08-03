@@ -5,6 +5,6 @@ Then we are alike.
 
 Here you will find a **visualized Linear Algebra cheatsheet**. It consists of main concepts needed for work with **machine learning**.  
 
-![Matrix](/Images/UnitVectors.gif)
+![Matrix](/Images/OrthonormalVectors.gif)
 
 
