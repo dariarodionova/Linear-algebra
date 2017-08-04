@@ -8,7 +8,8 @@
 		1.[Identity Matrix](#IdentityMatrix)  
         2.[Diagonal Matrix](#DiagonalMatrix)
         3.[Matrix Transpose](#MatrixTranspose)
-        3.[Symmetric Matrix](#SymmetricMatrix)
+        3.[Symmetric Matrix](#SymmetricMatrix)  
+- **[Tensor](#Tensor)**
 
 
 # Scalar _(Скаляр)_
