@@ -7,7 +7,8 @@
 - **[Matrix](#Matrix)**
 		1.[Identity Matrix](#IdentityMatrix)  
         2.[Diagonal Matrix](#DiagonalMatrix)
-        3.[Matrix Transpose](#MatrixTranspose) 
+        3.[Matrix Transpose](#MatrixTranspose)
+        3.[Symmetric Matrix](#SymmetricMatrix)
 
 
 # Scalar _(Скаляр)_
