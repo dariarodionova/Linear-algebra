@@ -5,6 +5,8 @@
         2.[Orthogonal Vector](#OrthogonalVector)  
         3.[Orthonormal Vector](#OrthonormalVector)  
 - **[Matrix](#Matrix)**
+		1.[Identity Matrix](#IdentityMatrix)  
+        2.[Diagonal Matrix](#DiagonalMatrix) 
 
 
 # Scalar _(Скаляр)_
