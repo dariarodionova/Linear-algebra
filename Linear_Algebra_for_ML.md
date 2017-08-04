@@ -4,7 +4,13 @@
 		1.[Unit Vector](#UnitVector)  
         2.[Orthogonal Vector](#OrthogonalVector)  
         3.[Orthonormal Vector](#OrthonormalVector)  
-- **[Matrix](#Matrix)**
+- **[Matrix](#Matrix)**  
+		1.[Identity Matrix](#IdentityMatrix)  
+        2.[Diagonal Matrix](#DiagonalMatrix)  
+        3.[Matrix Transpose](#MatrixTranspose)  
+        4.[Symmetric Matrix](#SymmetricMatrix)  
+        
+- **[Tensor](#Tensor)**
 
 
 # Scalar _(Скаляр)_
@@ -57,24 +63,29 @@ A matrix is a 2-D set of numbers size of m*n. Ex.:
 <br />  
 <br /> 
 
-
+<a name="IdentityMatrix">  
+  
 -	### Identity matrix _(Единичная матрица)_
 	An identity matrix is such a matrix, that if we multiply a vector on **that matrix**, the vector won't change. It is also such a **square** matrix that has ones on the main diagonal and zeros everywhere else.  
 	![Formula](/Formulas/f9.png)  
     ![Formula](/Formulas/f10.png)  
 	![Matrix](/Images/IdentityMatrix.png)  
-    
+  </a>
+    <a name="DiagonalMatrix">  
+      
 -	### Diagonal matrix _(Диагональная матрица)_
 	Diagonal matrix has values on the main diagonal and zeros everywhere else. Matrix is diagonal **if and only if** Dij = 0 for all i **unequal** to j. A **rectangular** matrix can also be diagonal.     
 	![Matrix](/Images/DiagonalMatrix.png)  
+    </a>
+    <a name="MatrixTranspose">  
     
  -	### Matrix transpose _(Транспонированная матрица)_  
  	A transpose is an operation of mirroring a matrix across **main diagonal** (from upper left corner to a 	lower right corner).  
  	![Formula](/Formulas/f11.png)  
  	![Formula](/Formulas/f12.png)  
   	![Matrix](/Images/MatrixTranspose.gif)
- 
-	
+ 	</a>
+	<a name="SymmetricMatrix"> 
 
 -	### Symmetric matrix _(Симметричная матрица)_
 	A symmetric matrix is a matrix that is **equal** to it's **own transpose**.  
