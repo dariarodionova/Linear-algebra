@@ -92,16 +92,23 @@ A matrix is a 2-D set of numbers size of m*n. Ex.:
 	![Formula](/Formulas/f8.png)  
 	![Matrix](/Images/SymmetricMatrix.gif)  
     
-     </a>  
+     </a>   
+
+# Tensor _(Тензор)_ 
+An array of numbers arranged on a regular grid with a variable number of axes. Ex.: 3-D matrix:  
+![Formula](/Formulas/f7.png)  
+![Tensor](/Images/Tensor.png) 
+
+# Matrix as a linear
+A matrix can be understood as a certain linear transforamtion of space.  
+There are diffrent kinds of transformations, like: rotation, sheer, scaling etc.  
+![LinearTransformation](/Images/SpaceRotation.png)  
+![LinearTransformation](/Images/SpaceScale.png)
+
      
 -	### Singular matrix _(Вырожденная, особенная, сингулярная матрица)_
 	A square matrix is singular if it has **no inverse**, because it's **determinant** equals **0**.  
   	![Formula](/Formulas/f13.png)  
     All of these matrices are singular:  
     ![Formula](/Formulas/f14.png)  
-  	![Matrix](/Images/SingularMatrix.gif)  
-
-# Tensor _(Тензор)_ 
-An array of numbers arranged on a regular grid with a variable number of axes. Ex.: 3-D matrix:  
-![Formula](/Formulas/f7.png)  
-![Tensor](/Images/Tensor.png)
+  	![Matrix](/Images/SingularMatrix.gif) 
