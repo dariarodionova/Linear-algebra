@@ -6,7 +6,8 @@
         3.[Orthonormal Vector](#OrthonormalVector)  
 - **[Matrix](#Matrix)**
 		1.[Identity Matrix](#IdentityMatrix)  
-        2.[Diagonal Matrix](#DiagonalMatrix) 
+        2.[Diagonal Matrix](#DiagonalMatrix)
+        3.[Matrix Transpose](#MatrixTranspose) 
 
 
 # Scalar _(Скаляр)_
