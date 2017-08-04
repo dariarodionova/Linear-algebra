@@ -85,7 +85,7 @@ A matrix is a 2-D set of numbers size of m*n. Ex.:
  	![Formula](/Formulas/f12.png)  
   	![Matrix](/Images/MatrixTranspose.gif)
  	</a>
-	
+	<a name="SymmetricMatrix"> 
 
 -	### Symmetric matrix _(Симметричная матрица)_
 	A symmetric matrix is a matrix that is **equal** to it's **own transpose**.  
