@@ -11,7 +11,8 @@ Just a simple number, ex.:
 A set of numbers that can identify a point in space.   
 ![Formula](/Formulas/f2.png)    
 
-<a name="Vectors">
+<a name="Vectors">  
+  
 ![Vector](/Images/vector.png)
 <br />  
 <br />  
