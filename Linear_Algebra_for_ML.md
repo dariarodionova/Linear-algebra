@@ -99,7 +99,7 @@ A matrix is a 2-D set of numbers size of m*n. Ex.:
   	![Formula](/Formulas/f13.png)  
     All of these matrices are singular:  
     ![Formula](/Formulas/f14.png)  
-  	![Matrix](/Images/SymmetricMatrix.gif)  
+  	![Matrix](/Images/SingularMatrix.gif)  
 
 # Tensor _(Тензор)_ 
 An array of numbers arranged on a regular grid with a variable number of axes. Ex.: 3-D matrix:  
