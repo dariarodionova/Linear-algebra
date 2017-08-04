@@ -1,4 +1,4 @@
-**[link text](#Vectors)**
+**[Vectors](#Vectors)**
 
 
 # Scalar _(Скаляр)_
