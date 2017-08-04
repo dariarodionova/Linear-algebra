@@ -7,6 +7,7 @@ Just a simple number, ex.:
 <br />  
 
 <a name="Vectors">  
+  
 # Vector _(Вектор)_
 A set of numbers that can identify a point in space.   
 ![Formula](/Formulas/f2.png)      
