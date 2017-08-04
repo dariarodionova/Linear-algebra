@@ -1,9 +1,9 @@
 ## Table of contents  
 
 - **[Vector](#Vector)**  
-		[Unit Vector](#UnitVector)
-        [Orthogonal Vector](#OrthogonalVector)
-        [Orthonormal Vector](#OrthonormalVector)
+		[Unit Vector](#UnitVector)  
+        [Orthogonal Vector](#OrthogonalVector)  
+        [Orthonormal Vector](#OrthonormalVector)  
 - **[Matrix](#Matrix)**
 
 
