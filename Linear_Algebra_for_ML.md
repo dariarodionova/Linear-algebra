@@ -1,4 +1,4 @@
-<a name="Vectors">Vectors</a>
+**[link text](#Vectors)**
 
 
 # Scalar _(Скаляр)_
@@ -6,11 +6,12 @@ Just a simple number, ex.:
 ![Formula](/Formulas/f1.png)  
 <br />  
 
-[link text](#Vectors)
+
 # Vector _(Вектор)_
 A set of numbers that can identify a point in space.   
 ![Formula](/Formulas/f2.png)    
 
+<a name="Vectors">
 ![Vector](/Images/vector.png)
 <br />  
 <br />  
@@ -33,7 +34,8 @@ A set of numbers that can identify a point in space.
     ![OrthonormalVectors](/Images/OrthonormalVectors.gif)
     <br />  
     <br />  
-    <br />  
+    <br /> 
+    </a>
     
 # Matrix _(Матрица)_
 A matrix is a 2-D set of numbers size of m*n. Ex.: 
