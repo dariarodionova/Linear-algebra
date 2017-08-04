@@ -6,9 +6,10 @@
         3.[Orthonormal Vector](#OrthonormalVector)  
 - **[Matrix](#Matrix)**
 		1.[Identity Matrix](#IdentityMatrix)  
-        2.[Diagonal Matrix](#DiagonalMatrix)
+        2.[Diagonal Matrix](#DiagonalMatrix)  
         3.[Matrix Transpose](#MatrixTranspose)
         4.[Symmetric Matrix](#SymmetricMatrix)  
+        
 - **[Tensor](#Tensor)**
 
 
