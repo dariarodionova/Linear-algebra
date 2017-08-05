@@ -11,7 +11,7 @@
         4.[Symmetric Matrix](#SymmetricMatrix)  
         
 - **[Tensor](#Tensor)**  
-- **[Matrix as a Linear Transformation](#LinearTransformation)**
+- **[Matrix as a Linear Transformation](#LinearTransformation)**  
 		1.[Matrix Inverse](#MatrixInverse)    
         2.[Singular Matrix](#SingularMatrix)  
         3.[Nonsingular Matrix](#NonsingularMatrix)
