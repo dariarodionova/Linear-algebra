@@ -106,7 +106,7 @@ An array of numbers arranged on a regular grid with a variable number of axes. E
 # Matrix as a linear transformation of space
 A matrix can be understood as a certain linear transforamtion of space.  
 There are diffrent kinds of linear transformations, like: rotation, sheer, scaling etc.  
-A matrix on the right in this situation is a location where unit vectors land.  
+A **matrix** on the **right** in this situation **is** a **location where unit vectors land**.  
 ![Formula](/Formulas/f15.png)  
 ![LinearTransformation](/Images/SpaceRotation.gif)  
   
@@ -119,4 +119,4 @@ A matrix on the right in this situation is a location where unit vectors land.
   	![Formula](/Formulas/f13.png)  
     All of these matrices are singular:  
     ![Formula](/Formulas/f14.png)  
-  	![Matrix](/Images/SingularMatrix.gif) 
+  	![Matrix](/Images/SingularMatrix.gif)
