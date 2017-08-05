@@ -105,8 +105,8 @@ An array of numbers arranged on a regular grid with a variable number of axes. E
 
 # Matrix as a linear transformation of space
 A matrix can be understood as a certain linear transforamtion of space.  
-There are diffrent kinds of transformations, like: rotation, sheer, scaling etc.
-Here are some examples on a coordinate plane:  
+There are diffrent kinds of linear transformations, like: rotation, sheer, scaling etc.  
+A matrix on the right in this situation is a location where unit vectors land.  
 ![Formula](/Formulas/f15.png)  
 ![LinearTransformation](/Images/SpaceRotation.gif)  
   
