@@ -10,7 +10,8 @@
         3.[Matrix Transpose](#MatrixTranspose)  
         4.[Symmetric Matrix](#SymmetricMatrix)  
         
-- **[Tensor](#Tensor)**
+- **[Tensor](#Tensor)**  
+- **[Matrix as a Linear Transformation](#LinearTransformation)**
 
 
 # Scalar _(Скаляр)_
