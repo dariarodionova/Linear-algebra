@@ -10,7 +10,11 @@
         3.[Matrix Transpose](#MatrixTranspose)  
         4.[Symmetric Matrix](#SymmetricMatrix)  
         
-- **[Tensor](#Tensor)**
+- **[Tensor](#Tensor)**  
+- **[Matrix as a Linear Transformation](#LinearTransformation)**  
+		1.[Matrix Inverse](#MatrixInverse)    
+        2.[Singular Matrix](#SingularMatrix)  
+        3.[Nonsingular Matrix](#NonsingularMatrix)
 
 
 # Scalar _(Скаляр)_
@@ -101,12 +105,14 @@ An array of numbers arranged on a regular grid with a variable number of axes. E
 ![Formula](/Formulas/f7.png)  
 ![Tensor](/Images/Tensor.png)  
 <br />  
-<br />
+<br />   
+
+<a name="LinearTransformation">  
 
 # Matrix as a linear transformation of space
 A matrix can be understood as a certain linear transforamtion of space.  
-There are diffrent kinds of transformations, like: rotation, sheer, scaling etc.
-Here are some examples on a coordinate plane:  
+There are diffrent kinds of linear transformations, like: rotation, sheer, scaling etc.  
+A **matrix** on the **right** in this situation **is** a **location where unit vectors land**.  
 ![Formula](/Formulas/f15.png)  
 ![LinearTransformation](/Images/SpaceRotation.gif)  
   
@@ -119,4 +125,4 @@ Here are some examples on a coordinate plane:
   	![Formula](/Formulas/f13.png)  
     All of these matrices are singular:  
     ![Formula](/Formulas/f14.png)  
-  	![Matrix](/Images/SingularMatrix.gif) 
+  	![Matrix](/Images/SingularMatrix.gif)
