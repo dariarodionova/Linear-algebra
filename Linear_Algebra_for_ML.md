@@ -110,7 +110,7 @@ Here are some examples on a coordinate plane:
 ![Formula](/Formulas/f15.png)  
 ![LinearTransformation](/Images/SpaceRotation.gif)  
   
-![Formula](/Formulas/f16.png)
+![Formula](/Formulas/f16.png)  
 ![LinearTransformation](/Images/SpaceScale.gif)
 
      
