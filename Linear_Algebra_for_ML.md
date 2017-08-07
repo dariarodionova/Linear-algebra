@@ -117,7 +117,13 @@ A **matrix** on the **right** in this situation **is** a **location where unit v
 ![LinearTransformation](/Images/SpaceRotation.gif)  
   
 ![Formula](/Formulas/f15.png)  
-![LinearTransformation](/Images/SpaceScale.gif)
+![LinearTransformation](/Images/SpaceScale.gif)  
+  
+  
+ -	### Matrix Inverse _(Обратная матрица, обратное преобразование)_
+	A square matrix is singular if it has **no inverse**, because it's **determinant** equals **0**.  
+
+  	![Matrix](/Images/MatrixInverse.gif)
 
      
 -	### Singular matrix _(Вырожденная, особенная, сингулярная матрица)_
