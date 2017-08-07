@@ -123,7 +123,8 @@ A **matrix** on the **right** in this situation **is** a **location where unit v
  -	### Matrix Inverse _(Обратная матрица, обратное преобразование)_
 	Matrix inverse is a tool that allows us to find a "backward" transformation of a given matrix.  
     ![Formula](/Formulas/f17.png)  
-    If we **transformed** matrix **I using A**, we **got A**. Let's say we need to **transform A** back **to I**. What matrix do we need to multiply A with to get I? Example:  
+    If we **transformed** matrix **I using A**, we **got A**. Let's say we need to **transform A** back **to I**.  
+    What matrix do we need to multiply A with to get I? Example:  
    	![MatrixInversion](/Images/MatrixInverse.gif)
 
      
