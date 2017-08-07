@@ -129,7 +129,7 @@ A **matrix** on the **right** in this situation **is** a **location where unit v
     What matrix do we need to multiply A with to get I? Example:  
    	![MatrixInversion](/Images/MatrixInverse.gif)  
     _**Why do we need it?**_  
-    It is easy to solve x*c = y if we are dealing with scalars. If we are solving for x, we just devide y by c. But the same equation solving pronciple does not apply for equations with matricies.  
+    It is easy to solve x*c = y if we are dealing with scalars. If we are solving for x, we just devide y by c. But the same equation solving principle does not apply for equations with matricies.  
     Take _**Ax = y**_.  
     In Machine Learning, matrix _**A**_ could be a set of parameters with columns as a certain characteristic and rows as examples. While vector _**y**_ contains labels for each row-example in A. 
     And _**x**_ is a vector of yet to be calculated thetas which will allow us make a prediction of y using another set of data. 
