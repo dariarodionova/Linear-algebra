@@ -129,7 +129,8 @@ A **matrix** on the **right** in this situation **is** a **location where unit v
     What matrix do we need to multiply A with to get I? Example:  
    	![MatrixInversion](/Images/MatrixInverse.gif)  
     _**Why do we need it?**_  
-    It is easy to solve x*c = y if we are dealing with scalars.   
+    It is easy to solve x*c = y if we are dealing with scalars. If we are solving for x, we just devide y by c. But the same equation solving pronciple does not apply for equations with matricies.  
+    Take _**Ax = y**_. (in Machine Learning x would be a set f characteristics with rows as certain example and columns  
     
     <a name="SingularMatrix">
      
