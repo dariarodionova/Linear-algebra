@@ -129,7 +129,9 @@ A **matrix** on the **right** in this situation **is** a **location where unit v
     What matrix do we need to multiply A with to get I? Example:  
    	![MatrixInversion](/Images/MatrixInverse.gif)  
     _**Why do we need it?**_  
-    It is easy to solve x*c = y if we are dealing with scalars. 
+    It is easy to solve x*c = y if we are dealing with scalars.   
+    
+    <a name="SingularMatrix">  
 
      
 -	### Singular matrix _(Вырожденная, особенная, сингулярная матрица)_
