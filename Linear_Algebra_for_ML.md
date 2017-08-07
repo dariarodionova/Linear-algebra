@@ -121,9 +121,10 @@ A **matrix** on the **right** in this situation **is** a **location where unit v
   
   
  -	### Matrix Inverse _(Обратная матрица, обратное преобразование)_
-	A square matrix is singular if it has **no inverse**, because it's **determinant** equals **0**.  
-
-  	![Matrix](/Images/MatrixInverse.gif)
+	Matrix inverse is a tool that allows us to find a "backward" transformation of a given matrix.  
+    ![Formula](/Formulas/f17.png)  
+    If we **transformed** matrix **I using A**, we **got A**. Let's say we need to **transform A** back **to I**. What matrix do we need to multiply A with to get I? Example:  
+   	![MatrixInversion](/Images/MatrixInverse.gif)
 
      
 -	### Singular matrix _(Вырожденная, особенная, сингулярная матрица)_
