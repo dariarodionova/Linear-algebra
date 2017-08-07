@@ -125,7 +125,8 @@ A **matrix** on the **right** in this situation **is** a **location where unit v
     ![Formula](/Formulas/f17.png)  
     If we **transformed** matrix **I using A**, we **got A**. Let's say we need to **transform A** back **to I**.  
     What matrix do we need to multiply A with to get I? Example:  
-   	![MatrixInversion](/Images/MatrixInverse.gif)
+   	![MatrixInversion](/Images/MatrixInverse.gif)  
+    **Why do we need it?**__
 
      
 -	### Singular matrix _(Вырожденная, особенная, сингулярная матрица)_
