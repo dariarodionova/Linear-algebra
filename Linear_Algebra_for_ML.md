@@ -131,8 +131,7 @@ A **matrix** on the **right** in this situation **is** a **location where unit v
     _**Why do we need it?**_  
     It is easy to solve x*c = y if we are dealing with scalars.   
     
-    <a name="SingularMatrix">  
-
+    <a name="SingularMatrix">
      
 -	### Singular matrix _(Вырожденная, особенная, сингулярная матрица)_
 	A square matrix is singular if it has **no inverse**, because it's **determinant** equals **0**.  
