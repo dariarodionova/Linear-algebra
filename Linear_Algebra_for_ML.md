@@ -113,10 +113,10 @@ An array of numbers arranged on a regular grid with a variable number of axes. E
 A matrix can be understood as a certain linear transforamtion of space.  
 There are diffrent kinds of linear transformations, like: rotation, sheer, scaling etc.  
 A **matrix** on the **right** in this situation **is** a **location where unit vectors land**.  
-![Formula](/Formulas/f15.png)  
+![Formula](/Formulas/f16.png)  
 ![LinearTransformation](/Images/SpaceRotation.gif)  
   
-![Formula](/Formulas/f16.png)  
+![Formula](/Formulas/f15.png)  
 ![LinearTransformation](/Images/SpaceScale.gif)
 
      
