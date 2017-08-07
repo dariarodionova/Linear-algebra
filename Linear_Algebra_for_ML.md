@@ -117,7 +117,9 @@ A **matrix** on the **right** in this situation **is** a **location where unit v
 ![LinearTransformation](/Images/SpaceRotation.gif)  
   
 ![Formula](/Formulas/f15.png)  
-![LinearTransformation](/Images/SpaceScale.gif)  
+![LinearTransformation](/Images/SpaceScale.gif)   
+
+<a name="MatrixInverse">  
   
   
  -	### Matrix Inverse _(Обратная матрица, обратное преобразование)_
