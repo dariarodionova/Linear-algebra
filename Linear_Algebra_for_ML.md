@@ -112,7 +112,7 @@ An array of numbers arranged on a regular grid with a variable number of axes. E
 # Matrix as a linear transformation of space
 A matrix can be understood as a certain linear transforamtion of space.  
 There are diffrent kinds of linear transformations, like: rotation, sheer, scaling etc.  
-A **matrix** on the **right** in this situation **is** a **location where unit vectors land**.  
+The **matrix** on the **right** in this situation **is** a **location where unit vectors lands**.  
 ![Formula](/Formulas/f16.png)  
 ![LinearTransformation](/Images/SpaceRotation.gif)  
   
@@ -129,15 +129,22 @@ A **matrix** on the **right** in this situation **is** a **location where unit v
     What matrix do we need to multiply A with to get I? Example:  
    	![MatrixInversion](/Images/MatrixInverse.gif)  
     _**Why do we need it?**_  
-    It is easy to solve x*c = y if we are dealing with scalars. If we are solving for x, we just devide y by c. But the same equation solving principle does not apply for equations with matricies.  
+    It is straightforward how to solve x*c = y if we are dealing with scalars. If we are solving for x, we just multiply y by the inverse of c, which is 1/c. The same solving principle applies when solving equations with matricies and vectors, but how does the matrix inverse look like?  
     
     Take _**Ax = y**_.  
-    In Machine Learning, matrix _**A**_ could be a set of parameters with columns as a certain characteristic and rows as examples.   
+    In machine learning, matrix _**A**_ could be a set of parameters with columns as a certain characteristic and rows as examples.   
     While vector _**y**_ contains labels for each row-example in A.   
     And _**x**_ is a vector of yet to be calculated thetas which will allow us find y for new A.  
       
       
-    If the **determinant = 0**, then it is **IMPOSSIBLE to find the inverse** of this matrix.
+    If the **determinant = 0**, then it is **IMPOSSIBLE to find the inverse** of this matrix.  
+      
+      
+    _Example_  
+    ![Formula](/Formulas/f18.png)   
+    A result of this transformation is a matrix that has **det = 0**. After horizontally squishing space into a line, it is impossible to tell where did we start from, because one dimention is lost and all coordinates from this dimention are now 0. Therefore resulting matrix has no inverse.  
+   ![NoInverse](/Images/noInverse.gif)
+    
     
     <a name="SingularMatrix">
      
