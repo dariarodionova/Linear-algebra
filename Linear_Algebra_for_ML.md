@@ -141,7 +141,7 @@ The **matrix** on the **right** in this situation **is** a **location where unit
       
       
     _Example_  
-    A result of this transformation is a matrix that has **det = 0**. After horizontally squishing space into a line (det = 0 looks like either a dot or a line), it is impossible to tell where did we start from. Therefore resulting matrix has no inverse.  
+    A result of this transformation is a matrix that has **det = 0**. After horizontally squishing space into a line (det = 0 looks like either a dot or a line), it is impossible to tell where did we start from, because one dimention is lost and all coordinates from this dimention are now 0. Therefore resulting matrix has no inverse.  
    ![NoInverse](/Images/noInverse.gif)
     
     
