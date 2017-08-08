@@ -117,7 +117,9 @@ A **matrix** on the **right** in this situation **is** a **location where unit v
 ![LinearTransformation](/Images/SpaceRotation.gif)  
   
 ![Formula](/Formulas/f15.png)  
-![LinearTransformation](/Images/SpaceScale.gif)  
+![LinearTransformation](/Images/SpaceScale.gif)   
+
+<a name="MatrixInverse">  
   
   
  -	### Matrix Inverse _(Обратная матрица, обратное преобразование)_
@@ -125,8 +127,19 @@ A **matrix** on the **right** in this situation **is** a **location where unit v
     ![Formula](/Formulas/f17.png)  
     If we **transformed** matrix **I using A**, we **got A**. Let's say we need to **transform A** back **to I**.  
     What matrix do we need to multiply A with to get I? Example:  
-   	![MatrixInversion](/Images/MatrixInverse.gif)
-
+   	![MatrixInversion](/Images/MatrixInverse.gif)  
+    _**Why do we need it?**_  
+    It is easy to solve x*c = y if we are dealing with scalars. If we are solving for x, we just devide y by c. But the same equation solving principle does not apply for equations with matricies.  
+    
+    Take _**Ax = y**_.  
+    In Machine Learning, matrix _**A**_ could be a set of parameters with columns as a certain characteristic and rows as examples.   
+    While vector _**y**_ contains labels for each row-example in A.   
+    And _**x**_ is a vector of yet to be calculated thetas which will allow us find y for new A.  
+      
+      
+    If the **determinant = 0**, then it is **IMPOSSIBLE to find the inverse** of this matrix.
+    
+    <a name="SingularMatrix">
      
 -	### Singular matrix _(Вырожденная, особенная, сингулярная матрица)_
 	A square matrix is singular if it has **no inverse**, because it's **determinant** equals **0**.  
