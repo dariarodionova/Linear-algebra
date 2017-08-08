@@ -133,7 +133,7 @@ A **matrix** on the **right** in this situation **is** a **location where unit v
     Take _**Ax = y**_.  
     In Machine Learning, matrix _**A**_ could be a set of parameters with columns as a certain characteristic and rows as examples.   
     While vector _**y**_ contains labels for each row-example in A.   
-    And _**x**_ is a vector of yet to be calculated thetas which will allow us find y for new A.
+    And _**x**_ is a vector of yet to be calculated thetas which will allow us find y for new A.  
     Sometimes it is **IMPOSSIBLE to find inverse matrix**.
     
     <a name="SingularMatrix">
