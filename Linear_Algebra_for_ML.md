@@ -139,6 +139,7 @@ A **matrix** on the **right** in this situation **is** a **location where unit v
       
     If the **determinant = 0**, then it is **IMPOSSIBLE to find the inverse** of this matrix.  
     _Example_  
+    A result of this transforamtion is a matrix that has **det = 0**. After horizontally squishing space into a line (det = 0 looks like either a dot or a line), it is impossible to tell where did we start from. Therefore resulting matrix has no inverse.  
    ![NoInverse](/Images/noInverse.gif)
     
     
