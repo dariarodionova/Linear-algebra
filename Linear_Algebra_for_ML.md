@@ -137,7 +137,7 @@ A **matrix** on the **right** in this situation **is** a **location where unit v
     And _**x**_ is a vector of yet to be calculated thetas which will allow us find y for new A.  
       
       
-    Sometimes it is **IMPOSSIBLE to find inverse matrix**.
+    If the **determinant** of a matrix equals 0, then it is **IMPOSSIBLE to find the inverse** of this matrix.
     
     <a name="SingularMatrix">
      
