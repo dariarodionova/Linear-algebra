@@ -138,6 +138,8 @@ The **matrix** on the **right** in this situation **is** a **location where unit
     And _**x**_ is a vector of yet to be calculated thetas which will allow us find y for new A.  
       
       
+  -	### Determinant _(Определитель, детерминант)_
+        
     If the **determinant = 0**, then it is **IMPOSSIBLE to find the inverse** of this matrix.  
       
       
