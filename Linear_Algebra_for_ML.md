@@ -140,7 +140,7 @@ The **matrix** on the **right** in this situation **is** a **location where unit
       
   -	### Determinant _(Определитель, детерминант)_  
   	**Determinant** is a **tool** as allows us to **learn** about **properties** of a matrix.  
-    Just like using a norm of a vector to get it's length, one of the ways we use the determinant, is to figure out "the area or volume of a matrix". 
+    Just like using a norm of a vector we can figure out it's length, one of the ways we use the determinant, is to figure out several usefull properties of a matrix.
         
     If the **determinant = 0**, then it is **IMPOSSIBLE to find the inverse** of this matrix.  
       
