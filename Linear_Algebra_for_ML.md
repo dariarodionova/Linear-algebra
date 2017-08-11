@@ -86,15 +86,13 @@ A matrix is a 2-D set of numbers size of m*n. Ex.:
     ![Formula](/Formulas/f10.png)  
 	![Matrix](/Images/IdentityMatrix.png)  
   </a>
-  	<br />  
-    <br />   
+  	<br />   
     <a name="DiagonalMatrix">  
       
 -	### Diagonal matrix _(Диагональная матрица)_
 	Diagonal matrix has values on the main diagonal and zeros everywhere else. Matrix is diagonal **if and only if** Dij = 0 for all i **unequal** to j. A **rectangular** matrix can also be diagonal.     
 	![Matrix](/Images/DiagonalMatrix.png)  
     </a>
-    <br />  
     <br />   
     <a name="MatrixTranspose">  
     
@@ -104,7 +102,6 @@ A matrix is a 2-D set of numbers size of m*n. Ex.:
  	![Formula](/Formulas/f12.png)  
   	![Matrix](/Images/MatrixTranspose.gif)
  	</a>
-    <br />  
     <br />   
 	<a name="SymmetricMatrix"> 
 
@@ -113,7 +110,6 @@ A matrix is a 2-D set of numbers size of m*n. Ex.:
 	![Formula](/Formulas/f8.png)  
 	![Matrix](/Images/SymmetricMatrix.gif)  
      </a>  
-     <br />  
      <br />  
 
 # Tensor _(Тензор)_ 
@@ -134,7 +130,6 @@ The **matrix** on the **right** in this situation **is** a **location where unit
   
 ![Formula](/Formulas/f15.png)  
 ![LinearTransformation](/Images/SpaceScale.gif)   
-<br />  
 <br />  
 <a name="MatrixInverse">  
   
