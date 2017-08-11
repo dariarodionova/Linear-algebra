@@ -130,12 +130,8 @@ The **matrix** on the **right** in this situation **is** a **location where unit
     What matrix do we need to multiply A with to get I? Example:  
    	![MatrixInversion](/Images/MatrixInverse.gif)  
     _**Why do we need it?**_  
-    It is straightforward how to solve x*c = y if we are dealing with scalars. If we are solving for x, we just multiply y by the inverse of c, which is 1/c. The same solving principle applies when solving equations with matricies and vectors, but how does the matrix inverse look like?  
+    It is straightforward how to solve x*c = y if we are dealing with scalars. If we are solving for x, we just multiply y by the inverse of c, which is 1/c. The same solving principle applies when solving equations with matricies and vectors, but how does the matrix inverse look like? It is another matrix with special values. 
     
-    Take _**Ax = y**_.  
-    In machine learning, matrix _**A**_ could be a set of parameters with columns as a certain characteristic and rows as examples.   
-    While vector _**y**_ contains labels for each row-example in A.   
-    And _**x**_ is a vector of yet to be calculated thetas which will allow us find y for new A.  
       
       
   -	### Determinant _(Определитель, детерминант)_  
