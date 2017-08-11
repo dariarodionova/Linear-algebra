@@ -5,8 +5,8 @@
         2.[Orthogonal Vector](#OrthogonalVector)  
         3.[Orthonormal Vector](#OrthonormalVector)  
         4.[Vector norm](#VectorNorm)
-        5.[Linear dependance](#Linear dependance)
-        6.[Vector addition](#Vector Addition)
+        5.[Linear dependance](#LinearDependance)
+        6.[Vector addition](#VectorAddition)
         
 - **[Matrix](#Matrix)**  
 		1.[Identity Matrix](#IdentityMatrix)  
