@@ -4,6 +4,10 @@
 		1.[Unit Vector](#UnitVector)  
         2.[Orthogonal Vector](#OrthogonalVector)  
         3.[Orthonormal Vector](#OrthonormalVector)  
+        4.[Vector norm](#VectorNorm)
+        5.[Linear dependance](#Linear dependance)
+        6.[Vector addition]
+        
 - **[Matrix](#Matrix)**  
 		1.[Identity Matrix](#IdentityMatrix)  
         2.[Diagonal Matrix](#DiagonalMatrix)  
@@ -11,6 +15,7 @@
         4.[Symmetric Matrix](#SymmetricMatrix)  
         
 - **[Tensor](#Tensor)**  
+
 - **[Matrix as a Linear Transformation](#LinearTransformation)**  
 		1.[Matrix Inverse](#MatrixInverse)  
         2.[Determinant](#Determinant)  
@@ -163,6 +168,6 @@ The **matrix** on the **right** in this situation **is** a **location where unit
     <a name="NonsingularMatrix">  
   
     
-- 	### Nonsingular matrix / Invertable matrix _(Вырожденная, особенная, сингулярная матрица)_
-	A square matrix is **NOT** singular.It **has inverse**, because it's **determinant** is **nonzero**.  
+- 	### Nonsingular matrix / Invertable matrix _()_
+	A square matrix is **NOT** singular. It **has inverse**, because it's **determinant** is **nonzero**.  
     
