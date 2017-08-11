@@ -168,6 +168,6 @@ The **matrix** on the **right** in this situation **is** a **location where unit
     <a name="NonsingularMatrix">  
   
     
-- 	### Nonsingular matrix / Invertable matrix _()_
+- 	### Nonsingular matrix / Invertable matrix _(Невырожденная, неособенная матрица)_
 	A square matrix is **NOT** singular. It **has inverse**, because it's **determinant** is **nonzero**.  
     
