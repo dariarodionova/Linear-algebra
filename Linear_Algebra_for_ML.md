@@ -82,12 +82,16 @@ A matrix is a 2-D set of numbers size of m*n. Ex.:
     ![Formula](/Formulas/f10.png)  
 	![Matrix](/Images/IdentityMatrix.png)  
   </a>
+  	<br />  
+    <br />   
     <a name="DiagonalMatrix">  
       
 -	### Diagonal matrix _(Диагональная матрица)_
 	Diagonal matrix has values on the main diagonal and zeros everywhere else. Matrix is diagonal **if and only if** Dij = 0 for all i **unequal** to j. A **rectangular** matrix can also be diagonal.     
 	![Matrix](/Images/DiagonalMatrix.png)  
     </a>
+    <br />  
+    <br />   
     <a name="MatrixTranspose">  
     
  -	### Matrix transpose _(Транспонированная матрица)_  
