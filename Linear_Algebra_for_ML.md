@@ -36,7 +36,6 @@ A set of numbers that can identify a point in space.
 ![Formula](/Formulas/f2.png)      
 ![Vector](/Images/vector.png)
 <br />  
-<br />  
 
 <a name="UnitVector"> 
   
@@ -45,7 +44,6 @@ A set of numbers that can identify a point in space.
 	![Formula](/Formulas/f3.png)    
 	![UnitVectors](/Images/UnitVectors.png) 
     <br />  
-    <br />  
     </a>
     
 <a name="OrthogonalVector"> 
@@ -53,7 +51,6 @@ A set of numbers that can identify a point in space.
 -	### Orthogonal vectors _(Ортогональные векторы)_
 	Vector _**x**_ and vector _**y**_ are **orthogonal** (perpendicular) to each other if![Formula](/Formulas/f4.png) (their dot product 		equals 0). If both vectors have nonzero norm and their dot product 		equals 0, then they are 			perpendicular to each other.   
 	![OrthogonalVectors](/Images/OrthogonalVectors.png)
-    <br />  
     <br />   
     </a>
     
@@ -143,7 +140,6 @@ The **matrix** on the **right** in this situation **is** a **location where unit
     _**Why do we need it?**_  
     It is straightforward how to solve x*c = y if we are dealing with scalars. If we are solving for x, we just multiply y by the inverse of c, which is 1/c. The same solving principle applies when solving equations with matricies and vectors, but how does the matrix inverse look like? It is another matrix with special values. 
      <br />  
-     <br />  
      <a name="Determinant"> 
       
   -	### Determinant _(Определитель, детерминант)_  
@@ -161,8 +157,7 @@ The **matrix** on the **right** in this situation **is** a **location where unit
     ![Formula](/Formulas/f18.png)   
     A result of this transformation is a matrix that has **det = 0**. After horizontally squishing space into a line, it is impossible to tell where did we start from, because one dimention is lost and all coordinates from this dimention are now 0. Therefore resulting matrix has no inverse.  
    ![NoInverse](/Images/noInverse.gif)
-     <br />  
-     <br />  
+     <br />   
     
     <a name="SingularMatrix">
      
@@ -172,9 +167,7 @@ The **matrix** on the **right** in this situation **is** a **location where unit
     Examples of singular matrices:  
     ![Formula](/Formulas/f14.png)  
   	![Matrix](/Images/SingularMatrix.gif)   
-    <br />  
-    <br />  
-    
+    <br />      
     
     <a name="NonsingularMatrix">  
       
