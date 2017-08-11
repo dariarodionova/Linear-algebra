@@ -4,6 +4,10 @@
 		1.[Unit Vector](#UnitVector)  
         2.[Orthogonal Vector](#OrthogonalVector)  
         3.[Orthonormal Vector](#OrthonormalVector)  
+        4.[Vector norm](#VectorNorm)
+        5.[Linear dependance](#LinearDependance)
+        6.[Vector addition](#VectorAddition)
+        
 - **[Matrix](#Matrix)**  
 		1.[Identity Matrix](#IdentityMatrix)  
         2.[Diagonal Matrix](#DiagonalMatrix)  
@@ -11,6 +15,7 @@
         4.[Symmetric Matrix](#SymmetricMatrix)  
         
 - **[Tensor](#Tensor)**  
+
 - **[Matrix as a Linear Transformation](#LinearTransformation)**  
 		1.[Matrix Inverse](#MatrixInverse)  
         2.[Determinant](#Determinant)  
@@ -141,9 +146,9 @@ The **matrix** on the **right** in this situation **is** a **location where unit
       
     It allows us to learn if:  
     - _**Ax = y**_ has a **unique** solution _(this happens **if and only if** determinant is **nonzero**)_ 
-    - Given matrix has an **inverse** _(this happens **if and only if** determinant is **nonzero**)_
-        
+    - Given matrix has an **inverse** _(this happens **if and only if** determinant is **nonzero**)_  
     
+    ![Determinant](/Images/Determinant.gif)     
       
     _Example_  
     ![Formula](/Formulas/f18.png)   
@@ -153,7 +158,7 @@ The **matrix** on the **right** in this situation **is** a **location where unit
     
     <a name="SingularMatrix">
      
--	### Singular matrix _(Вырожденная, особенная, сингулярная матрица)_
+-	### Singular matrix / Noninvertable matrix _(Вырожденная, особенная, сингулярная матрица)_
 	A square matrix is singular if it has **no inverse**, because it's **determinant** equals **0**.  
   	![Formula](/Formulas/f13.png)  
     Examples of singular matrices:  
@@ -163,6 +168,6 @@ The **matrix** on the **right** in this situation **is** a **location where unit
     <a name="NonsingularMatrix">  
   
     
-- 	### Nonsingular matrix _(Вырожденная, особенная, сингулярная матрица)_
-	A square matrix is **NOT** singular.It **has inverse**, because it's **determinant** is **nonzero**.  
+- 	### Nonsingular matrix / Invertable matrix _(Невырожденная, неособенная матрица)_
+	A square matrix is **NOT** singular. It **has inverse**, because it's **determinant** is **nonzero**.  
     
