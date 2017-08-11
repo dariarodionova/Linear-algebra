@@ -162,7 +162,8 @@ The **matrix** on the **right** in this situation **is** a **location where unit
     ![Formula](/Formulas/f18.png)   
     A result of this transformation is a matrix that has **det = 0**. After horizontally squishing space into a line, it is impossible to tell where did we start from, because one dimention is lost and all coordinates from this dimention are now 0. Therefore resulting matrix has no inverse.  
    ![NoInverse](/Images/noInverse.gif)
-    
+     <br />  
+     <br />  
     
     <a name="SingularMatrix">
      
