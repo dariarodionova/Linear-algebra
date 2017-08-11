@@ -144,9 +144,9 @@ The **matrix** on the **right** in this situation **is** a **location where unit
       
       
     It allows us to learn if:  
-    1._**Ax = y**_ has a **unique** solution  
-    2.Given matrix has an **inverse**
-    
+    1. _**Ax = y**_ has a **unique** solution  
+    2. Given matrix has an **inverse**  
+        
         
     If the **determinant = 0**, then it is **IMPOSSIBLE to find the inverse** of this matrix.  
       
