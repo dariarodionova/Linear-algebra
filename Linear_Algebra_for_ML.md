@@ -143,7 +143,7 @@ The **matrix** on the **right** in this situation **is** a **location where unit
     - _**Ax = y**_ has a **unique** solution _(this happens **if and only if** determinant is **nonzero**)_ 
     - Given matrix has an **inverse** _(this happens **if and only if** determinant is **nonzero**)_  
     
-    ![Determinant](/Images/Determinant.gif)   
+    ![Determinant](/Images/Determinant.gif)     
       
     _Example_  
     ![Formula](/Formulas/f18.png)   
