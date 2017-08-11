@@ -12,9 +12,10 @@
         
 - **[Tensor](#Tensor)**  
 - **[Matrix as a Linear Transformation](#LinearTransformation)**  
-		1.[Matrix Inverse](#MatrixInverse)    
-        2.[Singular Matrix](#SingularMatrix)  
-        3.[Nonsingular Matrix](#NonsingularMatrix)
+		1.[Matrix Inverse](#MatrixInverse)  
+        2.[Determinant](#Determinant)  
+        3.[Singular Matrix](#SingularMatrix)    
+        4.[Nonsingular Matrix](#NonsingularMatrix)
 
 
 # Scalar _(Скаляр)_
@@ -129,16 +130,20 @@ The **matrix** on the **right** in this situation **is** a **location where unit
     What matrix do we need to multiply A with to get I? Example:  
    	![MatrixInversion](/Images/MatrixInverse.gif)  
     _**Why do we need it?**_  
-    It is straightforward how to solve x*c = y if we are dealing with scalars. If we are solving for x, we just multiply y by the inverse of c, which is 1/c. The same solving principle applies when solving equations with matricies and vectors, but how does the matrix inverse look like?  
+    It is straightforward how to solve x*c = y if we are dealing with scalars. If we are solving for x, we just multiply y by the inverse of c, which is 1/c. The same solving principle applies when solving equations with matricies and vectors, but how does the matrix inverse look like? It is another matrix with special values. 
     
-    Take _**Ax = y**_.  
-    In machine learning, matrix _**A**_ could be a set of parameters with columns as a certain characteristic and rows as examples.   
-    While vector _**y**_ contains labels for each row-example in A.   
-    And _**x**_ is a vector of yet to be calculated thetas which will allow us find y for new A.  
       
       
-    If the **determinant = 0**, then it is **IMPOSSIBLE to find the inverse** of this matrix.  
+  -	### Determinant _(Определитель, детерминант)_  
+  	**Determinant** is a **tool** that allows us to **learn** about **properties** of a **square** matrix. The value of the determinant can be positive, negative or zero.  
+    ![Formula](/Formulas/f19.png)  
       
+      
+    It allows us to learn if:  
+    - _**Ax = y**_ has a **unique** solution _(this happens **if and only if** determinant is **nonzero**)_ 
+    - Given matrix has an **inverse** _(this happens **if and only if** determinant is **nonzero**)_
+        
+    
       
     _Example_  
     ![Formula](/Formulas/f18.png)   
@@ -151,6 +156,6 @@ The **matrix** on the **right** in this situation **is** a **location where unit
 -	### Singular matrix _(Вырожденная, особенная, сингулярная матрица)_
 	A square matrix is singular if it has **no inverse**, because it's **determinant** equals **0**.  
   	![Formula](/Formulas/f13.png)  
-    All of these matrices are singular:  
+    Examples of singular matrices:  
     ![Formula](/Formulas/f14.png)  
   	![Matrix](/Images/SingularMatrix.gif)
