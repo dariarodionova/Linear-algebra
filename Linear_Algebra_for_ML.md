@@ -38,7 +38,8 @@ A set of numbers that can identify a point in space.
 <br />  
 <br />  
 
-<a name="UnitVector">   
+<a name="UnitVector"> 
+  
 -	### Unit Vector _(Единичный вектор)_
 	Unit vector is a vector with a unit norm (norm is a function that assigns positive length to a vector). 
 	![Formula](/Formulas/f3.png)    
@@ -47,7 +48,8 @@ A set of numbers that can identify a point in space.
     <br />  
     </a>
     
-<a name="OrthogonalVector">  
+<a name="OrthogonalVector"> 
+  
 -	### Orthogonal vectors _(Ортогональные векторы)_
 	Vector _**x**_ and vector _**y**_ are **orthogonal** (perpendicular) to each other if![Formula](/Formulas/f4.png) (their dot product 		equals 0). If both vectors have nonzero norm and their dot product 		equals 0, then they are 			perpendicular to each other.   
 	![OrthogonalVectors](/Images/OrthogonalVectors.png)
@@ -56,6 +58,7 @@ A set of numbers that can identify a point in space.
     </a>
     
     <a name="OrthonormalVector">
+  
 -	### Orthonormal vectors _(Ортонормированные векторы)_
 	Vector _**x**_ and vector _**y**_ are **orthonormal** if they are _orthogonal_ and have _unit norm_.
     ![OrthonormalVectors](/Images/OrthonormalVectors.gif)
