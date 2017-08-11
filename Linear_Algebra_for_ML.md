@@ -158,4 +158,8 @@ The **matrix** on the **right** in this situation **is** a **location where unit
   	![Formula](/Formulas/f13.png)  
     Examples of singular matrices:  
     ![Formula](/Formulas/f14.png)  
-  	![Matrix](/Images/SingularMatrix.gif)
+  	![Matrix](/Images/SingularMatrix.gif)  
+    
+- 	### Nonsingular matrix _(Вырожденная, особенная, сингулярная матрица)_
+	A square matrix is **NOT** singular.It **has inverse**, because it's **determinant** is a positive or negative **number**.  
+    
