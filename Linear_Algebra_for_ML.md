@@ -156,6 +156,6 @@ The **matrix** on the **right** in this situation **is** a **location where unit
 -	### Singular matrix _(Вырожденная, особенная, сингулярная матрица)_
 	A square matrix is singular if it has **no inverse**, because it's **determinant** equals **0**.  
   	![Formula](/Formulas/f13.png)  
-    All of these matrices are singular:  
+    Examples of singular matrices:  
     ![Formula](/Formulas/f14.png)  
   	![Matrix](/Images/SingularMatrix.gif)
