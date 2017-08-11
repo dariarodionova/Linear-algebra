@@ -132,7 +132,7 @@ The **matrix** on the **right** in this situation **is** a **location where unit
     _**Why do we need it?**_  
     It is straightforward how to solve x*c = y if we are dealing with scalars. If we are solving for x, we just multiply y by the inverse of c, which is 1/c. The same solving principle applies when solving equations with matricies and vectors, but how does the matrix inverse look like? It is another matrix with special values. 
     
-      
+     <a name="Determinant"> 
       
   -	### Determinant _(Определитель, детерминант)_  
   	**Determinant** is a **tool** that allows us to **learn** about **properties** of a **square** matrix. The value of the determinant can be positive, negative or zero.  
