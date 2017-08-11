@@ -4,9 +4,9 @@
 		1.[Unit Vector](#UnitVector)  
         2.[Orthogonal Vector](#OrthogonalVector)  
         3.[Orthonormal Vector](#OrthonormalVector)  
-        4.[Vector norm](#VectorNorm)
-        5.[Linear dependance](#LinearDependance)
-        6.[Vector addition](#VectorAddition)
+        4.[Vector norm](#VectorNorm)  
+        5.[Linear dependance](#LinearDependance)  
+        6.[Vector addition](#VectorAddition)  
         
 - **[Matrix](#Matrix)**  
 		1.[Identity Matrix](#IdentityMatrix)  
