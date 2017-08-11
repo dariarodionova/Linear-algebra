@@ -6,7 +6,7 @@
         3.[Orthonormal Vector](#OrthonormalVector)  
         4.[Vector norm](#VectorNorm)
         5.[Linear dependance](#Linear dependance)
-        6.[Vector addition]
+        6.[Vector addition](#Vector Addition)
         
 - **[Matrix](#Matrix)**  
 		1.[Identity Matrix](#IdentityMatrix)  
