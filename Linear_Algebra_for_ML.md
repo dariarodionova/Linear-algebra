@@ -135,7 +135,7 @@ The **matrix** on the **right** in this situation **is** a **location where unit
       
       
   -	### Determinant _(Определитель, детерминант)_  
-  	**Determinant** is a **tool** that allows us to **learn** about **properties** of a square matrix. The value of the determinant can be positive, negative or zero.  
+  	**Determinant** is a **tool** that allows us to **learn** about **properties** of a **square** matrix. The value of the determinant can be positive, negative or zero.  
     ![Formula](/Formulas/f19.png)  
       
       
