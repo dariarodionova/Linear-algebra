@@ -141,9 +141,9 @@ The **matrix** on the **right** in this situation **is** a **location where unit
       
     It allows us to learn if:  
     - _**Ax = y**_ has a **unique** solution _(this happens **if and only if** determinant is **nonzero**)_ 
-    - Given matrix has an **inverse** _(this happens **if and only if** determinant is **nonzero**)_
-        
+    - Given matrix has an **inverse** _(this happens **if and only if** determinant is **nonzero**)_  
     
+    ![Determinant](/Images/Determinant.gif)   
       
     _Example_  
     ![Formula](/Formulas/f18.png)   
@@ -153,7 +153,7 @@ The **matrix** on the **right** in this situation **is** a **location where unit
     
     <a name="SingularMatrix">
      
--	### Singular matrix _(Вырожденная, особенная, сингулярная матрица)_
+-	### Singular matrix / Noninvertable matrix _(Вырожденная, особенная, сингулярная матрица)_
 	A square matrix is singular if it has **no inverse**, because it's **determinant** equals **0**.  
   	![Formula](/Formulas/f13.png)  
     Examples of singular matrices:  
@@ -163,6 +163,6 @@ The **matrix** on the **right** in this situation **is** a **location where unit
     <a name="NonsingularMatrix">  
   
     
-- 	### Nonsingular matrix _(Вырожденная, особенная, сингулярная матрица)_
+- 	### Nonsingular matrix / Invertable matrix _(Вырожденная, особенная, сингулярная матрица)_
 	A square matrix is **NOT** singular.It **has inverse**, because it's **determinant** is **nonzero**.  
     
