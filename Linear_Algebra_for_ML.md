@@ -143,7 +143,8 @@ The **matrix** on the **right** in this situation **is** a **location where unit
    	![MatrixInversion](/Images/MatrixInverse.gif)  
     _**Why do we need it?**_  
     It is straightforward how to solve x*c = y if we are dealing with scalars. If we are solving for x, we just multiply y by the inverse of c, which is 1/c. The same solving principle applies when solving equations with matricies and vectors, but how does the matrix inverse look like? It is another matrix with special values. 
-    
+     <br />  
+     <br />  
      <a name="Determinant"> 
       
   -	### Determinant _(Определитель, детерминант)_  
