@@ -12,9 +12,9 @@
         
 - **[Tensor](#Tensor)**  
 - **[Matrix as a Linear Transformation](#LinearTransformation)**  
-		1.[Matrix Inverse](#MatrixInverse)
-        2.[Determinant](#Determinant)
-        3.[Singular Matrix](#SingularMatrix)  
+		1.[Matrix Inverse](#MatrixInverse)  
+        2.[Determinant](#Determinant)  
+        3.[Singular Matrix](#SingularMatrix)    
         4.[Nonsingular Matrix](#NonsingularMatrix)
 
 
