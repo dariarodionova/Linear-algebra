@@ -173,10 +173,12 @@ The **matrix** on the **right** in this situation **is** a **location where unit
     Examples of singular matrices:  
     ![Formula](/Formulas/f14.png)  
   	![Matrix](/Images/SingularMatrix.gif)   
-      
-    <a name="NonsingularMatrix">  
-  
+    <br />  
+    <br />  
     
+    
+    <a name="NonsingularMatrix">  
+      
 - 	### Nonsingular matrix / Invertable matrix _(Невырожденная, неособенная матрица)_
 	A square matrix is **NOT** singular. It **has inverse**, because it's **determinant** is **nonzero**.  
     
