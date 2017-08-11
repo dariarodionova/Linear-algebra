@@ -109,7 +109,6 @@ A matrix is a 2-D set of numbers size of m*n. Ex.:
 	![Formula](/Formulas/f8.png)  
 	![Matrix](/Images/SymmetricMatrix.gif)  
      </a>  
-     
      <br />  
      <br />  
 
@@ -131,7 +130,8 @@ The **matrix** on the **right** in this situation **is** a **location where unit
   
 ![Formula](/Formulas/f15.png)  
 ![LinearTransformation](/Images/SpaceScale.gif)   
-
+<br />  
+<br />  
 <a name="MatrixInverse">  
   
   
