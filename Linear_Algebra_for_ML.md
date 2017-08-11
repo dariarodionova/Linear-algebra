@@ -144,7 +144,7 @@ The **matrix** on the **right** in this situation **is** a **location where unit
       
       
     It allows us to learn if:  
-    - _**Ax = y**_ has a **unique** solution  
+    - _**Ax = y**_ has a **unique** solution (this happens **if and only if** determinant is **nonzero**) 
     - Given matrix has an **inverse**  
         
         
