@@ -64,8 +64,7 @@ A set of numbers that can identify a point in space.
     <a name="VectorAddition"> 
   
 -	### Vector addition _(Сложение векторов)_
-	Vector _**x**_ and vector _**y**_ are **orthogonal** (perpendicular) to each other if![Formula](/Formulas/f4.png) (their dot product 		equals 0). If both vectors have nonzero norm and their dot product 		equals 0, then they are 			perpendicular to each other.   
-	![OrthogonalVectors](/Images/OrthogonalVectors.png) 
+	![VectorAddition](/Images/VectorAddition.png) 
     </a>
       
     <br />
