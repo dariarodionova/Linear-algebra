@@ -164,5 +164,5 @@ The **matrix** on the **right** in this situation **is** a **location where unit
   
     
 - 	### Nonsingular matrix _(Вырожденная, особенная, сингулярная матрица)_
-	A square matrix is **NOT** singular.It **has inverse**, because it's **determinant** is a positive or negative **number**.  
+	A square matrix is **NOT** singular.It **has inverse**, because it's **determinant** is **nonzero**.  
     
