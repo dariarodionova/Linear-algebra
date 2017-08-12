@@ -4,9 +4,11 @@
 		1.[Unit Vector](#UnitVector)  
         2.[Orthogonal Vector](#OrthogonalVector)  
         3.[Orthonormal Vector](#OrthonormalVector)  
-        4.[Vector norm](#VectorNorm)
-        5.[Linear dependance](#LinearDependance)
-        6.[Vector addition](#VectorAddition)
+        -----------------  
+        4.[Vector norm](#VectorNorm)  
+        5.[Linear dependance](#LinearDependance)  
+        6.[Vector addition](#VectorAddition)  
+        7.[Linear Combination](#LinearCombination)
         
 - **[Matrix](#Matrix)**  
 		1.[Identity Matrix](#IdentityMatrix)  
@@ -35,29 +37,45 @@ A set of numbers that can identify a point in space.
 ![Formula](/Formulas/f2.png)      
 ![Vector](/Images/vector.png)
 <br />  
-<br />  
 
-<a name="UnitVector">  
+<a name="UnitVector"> 
   
 -	### Unit Vector _(Единичный вектор)_
 	Unit vector is a vector with a unit norm (norm is a function that assigns positive length to a vector). 
 	![Formula](/Formulas/f3.png)    
 	![UnitVectors](/Images/UnitVectors.png) 
     <br />  
-    <br />  
     </a>
-    <a name="OrthogonalVector">  
+    
+<a name="OrthogonalVector"> 
+  
 -	### Orthogonal vectors _(Ортогональные векторы)_
 	Vector _**x**_ and vector _**y**_ are **orthogonal** (perpendicular) to each other if![Formula](/Formulas/f4.png) (their dot product 		equals 0). If both vectors have nonzero norm and their dot product 		equals 0, then they are 			perpendicular to each other.   
 	![OrthogonalVectors](/Images/OrthogonalVectors.png)
-    <br />  
     <br />   
     </a>
+    
     <a name="OrthonormalVector">
+  
 -	### Orthonormal vectors _(Ортонормированные векторы)_
 	Vector _**x**_ and vector _**y**_ are **orthonormal** if they are _orthogonal_ and have _unit norm_.
     ![OrthonormalVectors](/Images/OrthonormalVectors.gif)
     <br />  
+    
+    <a name="VectorAddition"> 
+  
+-	### Vector addition _(Сложение векторов)_  
+	When we add two vectors, we get a resulting vector which represents a motion in the direction of the first vector and then the second vector (or vice versa).  
+	![VectorAddition](/Images/VectorAddition.png)  
+    <br />  
+    </a>  
+    
+     <a name="LinearCombination"> 
+    
+ -	### Linear Combination _(Линейная комбинация)_  
+	![Formula](/Formulas/f20.png)   
+          
+    <br />
     <br />  
     <br /> 
     </a>
@@ -81,12 +99,14 @@ A matrix is a 2-D set of numbers size of m*n. Ex.:
     ![Formula](/Formulas/f10.png)  
 	![Matrix](/Images/IdentityMatrix.png)  
   </a>
+  	<br />   
     <a name="DiagonalMatrix">  
       
 -	### Diagonal matrix _(Диагональная матрица)_
 	Diagonal matrix has values on the main diagonal and zeros everywhere else. Matrix is diagonal **if and only if** Dij = 0 for all i **unequal** to j. A **rectangular** matrix can also be diagonal.     
 	![Matrix](/Images/DiagonalMatrix.png)  
     </a>
+    <br />   
     <a name="MatrixTranspose">  
     
  -	### Matrix transpose _(Транспонированная матрица)_  
@@ -95,15 +115,14 @@ A matrix is a 2-D set of numbers size of m*n. Ex.:
  	![Formula](/Formulas/f12.png)  
   	![Matrix](/Images/MatrixTranspose.gif)
  	</a>
+    <br />   
 	<a name="SymmetricMatrix"> 
 
 -	### Symmetric matrix _(Симметричная матрица)_
 	A symmetric matrix is a matrix that is **equal** to it's **own transpose**.  
 	![Formula](/Formulas/f8.png)  
 	![Matrix](/Images/SymmetricMatrix.gif)  
-    
      </a>  
-     <br />  
      <br />  
 
 # Tensor _(Тензор)_ 
@@ -124,7 +143,7 @@ The **matrix** on the **right** in this situation **is** a **location where unit
   
 ![Formula](/Formulas/f15.png)  
 ![LinearTransformation](/Images/SpaceScale.gif)   
-
+<br />  
 <a name="MatrixInverse">  
   
   
@@ -136,7 +155,7 @@ The **matrix** on the **right** in this situation **is** a **location where unit
    	![MatrixInversion](/Images/MatrixInverse.gif)  
     _**Why do we need it?**_  
     It is straightforward how to solve x*c = y if we are dealing with scalars. If we are solving for x, we just multiply y by the inverse of c, which is 1/c. The same solving principle applies when solving equations with matricies and vectors, but how does the matrix inverse look like? It is another matrix with special values. 
-    
+     <br />  
      <a name="Determinant"> 
       
   -	### Determinant _(Определитель, детерминант)_  
@@ -154,7 +173,7 @@ The **matrix** on the **right** in this situation **is** a **location where unit
     ![Formula](/Formulas/f18.png)   
     A result of this transformation is a matrix that has **det = 0**. After horizontally squishing space into a line, it is impossible to tell where did we start from, because one dimention is lost and all coordinates from this dimention are now 0. Therefore resulting matrix has no inverse.  
    ![NoInverse](/Images/noInverse.gif)
-    
+     <br />   
     
     <a name="SingularMatrix">
      
@@ -164,10 +183,10 @@ The **matrix** on the **right** in this situation **is** a **location where unit
     Examples of singular matrices:  
     ![Formula](/Formulas/f14.png)  
   	![Matrix](/Images/SingularMatrix.gif)   
-      
-    <a name="NonsingularMatrix">  
-  
+    <br />      
     
+    <a name="NonsingularMatrix">  
+      
 - 	### Nonsingular matrix / Invertable matrix _(Невырожденная, неособенная матрица)_
 	A square matrix is **NOT** singular. It **has inverse**, because it's **determinant** is **nonzero**.  
     
