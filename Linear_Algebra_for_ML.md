@@ -7,7 +7,8 @@
         -----------------  
         4.[Vector norm](#VectorNorm)  
         5.[Linear dependance](#LinearDependance)  
-        6.[Vector addition](#VectorAddition)  
+        6.[Vector addition](#VectorAddition)
+        7.[Linear Combination](#LinearCombination)
         
 - **[Matrix](#Matrix)**  
 		1.[Identity Matrix](#IdentityMatrix)  
@@ -65,8 +66,16 @@ A set of numbers that can identify a point in space.
   
 -	### Vector addition _(Сложение векторов)_  
 	When we add two vectors, we get a resulting vector which represents a motion in the direction of the first vector and then the second vector (or vice versa).  
-	![VectorAddition](/Images/VectorAddition.png) 
-    </a>
+	![VectorAddition](/Images/VectorAddition.png)  
+    <br />  
+    </a>  
+    
+     <a name="LinearCombination"> 
+    
+ -	### Linear Combination _(Линейная комбинация)_
+	Vector _**x**_ and vector _**y**_ are **orthonormal** if they are _orthogonal_ and have _unit norm_.
+    ![OrthonormalVectors](/Images/OrthonormalVectors.gif)
+    
       
     <br />
     <br />  
