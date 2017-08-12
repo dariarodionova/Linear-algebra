@@ -73,10 +73,8 @@ A set of numbers that can identify a point in space.
      <a name="LinearCombination"> 
     
  -	### Linear Combination _(Линейная комбинация)_
-	Vector _**x**_ and vector _**y**_ are **orthonormal** if they are _orthogonal_ and have _unit norm_.
-    ![OrthonormalVectors](/Images/OrthonormalVectors.gif)
-    
-      
+	
+          
     <br />
     <br />  
     <br /> 
