@@ -72,8 +72,8 @@ A set of numbers that can identify a point in space.
     
      <a name="LinearCombination"> 
     
- -	### Linear Combination _(Линейная комбинация)_
-	
+ -	### Linear Combination _(Линейная комбинация)_  
+	![Formula](/Formulas/f20.png)   
           
     <br />
     <br />  
