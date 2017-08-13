@@ -60,7 +60,15 @@ A set of numbers that can identify a point in space.
 -	### Orthonormal vectors _(Ортонормированные векторы)_
 	Vector _**x**_ and vector _**y**_ are **orthonormal** if they are _orthogonal_ and have _unit norm_.
     ![OrthonormalVectors](/Images/OrthonormalVectors.gif)
+    <br />    
+      
+     <a name="VectorNorm"> 
+  
+-	### Vector norm _(Норма вектора)_  
+	Norm is a tool that allows us to measure the size of a vector (non-negative number). It has a form of different functions, sutable for different situations.  
+	![VectorAddition](/Images/VectorAddition.png)  
     <br />  
+    </a> 
     
     <a name="VectorAddition"> 
   
