@@ -65,11 +65,11 @@ A set of numbers that can identify a point in space.
      <a name="VectorNorm"> 
   
 -	### Vector norm _(Норма вектора)_  
-	Norm is a tool that allows us to measure the size of a vector (non-negative number). It has a form of different functions, sutable for different situations.  
+	Norm ![Formula](/Formulas/f21.png) is a tool that allows us to measure the size of a vector (non-negative number). It has a form of different functions, suitable for different situations.  
     The norm is defined such that:  
     - ![Formula](/Formulas/f22.png)  if x is nonzero. 
     - ![Formula](/Formulas/f23.png)   
-	![Formula](/Formulas/f21.png)  
+	 
     <br />  
     </a> 
     
@@ -199,5 +199,4 @@ The **matrix** on the **right** in this situation **is** a **location where unit
     <a name="NonsingularMatrix">  
       
 - 	### Nonsingular matrix / Invertable matrix _(Невырожденная, неособенная матрица)_
-	A square matrix is **NOT** singular. It **has inverse**, because it's **determinant** is **nonzero**.  
-    
+	A square matrix is **NOT** singular. It **has inverse**, because it's **determinant** is **nonzero**.
