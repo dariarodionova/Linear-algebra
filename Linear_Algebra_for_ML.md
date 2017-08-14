@@ -73,7 +73,7 @@ A set of numbers that can identify a point in space.
     
 	Most common norms:
     - L^1 (Manhattan norm)  
-    ![ManhattanNorm](/Images/ManhattanNorm.png)  
+    ![ManhattanNorm](/Images/ManhattanNorm.png)    
     - L^2 (Euclidean norm)
     - L^3
     - L^4
