@@ -7,7 +7,7 @@
         ------  
         4.[Vector norm](#VectorNorm)  
         5.[Vector addition](#VectorAddition)  
-        6.[Linear Combination](#LinearCombination)
+        6.[Linear Combination](#LinearCombination)  
         7.[Linear dependance](#LinearDependance)  
         
 - **[Matrix](#Matrix)**  
