@@ -4,11 +4,11 @@
 		1.[Unit Vector](#UnitVector)  
         2.[Orthogonal Vector](#OrthogonalVector)  
         3.[Orthonormal Vector](#OrthonormalVector)  
-        -----------------  
+        ------  
         4.[Vector norm](#VectorNorm)  
-        5.[Linear dependance](#LinearDependance)  
-        6.[Vector addition](#VectorAddition)  
-        7.[Linear Combination](#LinearCombination)
+        5.[Vector addition](#VectorAddition)  
+        6.[Linear Combination](#LinearCombination)
+        7.[Linear dependance](#LinearDependance)  
         
 - **[Matrix](#Matrix)**  
 		1.[Identity Matrix](#IdentityMatrix)  
@@ -65,7 +65,7 @@ A set of numbers that can identify a point in space.
      <a name="VectorNorm"> 
   
 -	### Vector norm _(Норма вектора)_  
-	Norm ![Formula](/Formulas/f21.png) is a tool that allows us to measure the **size of a vector** (non-negative number). It has a form of different functions, suitable for different situations.  
+	Norm ![Formula](/Formulas/f21.png) is a **tool** that allows us to measure the **size of a vector** (**non-negative** number). It has a form of different functions, suitable for different situations.  
     The norm is defined such that:  
     - ![Formula](/Formulas/f22.png)   if x is nonzero. 
     - ![Formula](/Formulas/f23.png)   triangle inequality   
