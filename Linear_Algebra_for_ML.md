@@ -65,7 +65,7 @@ A set of numbers that can identify a point in space.
      <a name="VectorNorm"> 
   
 -	### Vector norm _(Норма вектора)_  
-	Norm ![Formula](/Formulas/f21.png) is a **tool** that allows us to measure the **size of a vector** (**non-negative** number). It has a form of different functions, suitable for different situations.  
+	Norm ![Formula](/Formulas/f21.png) is a **tool** that allows us to measure the **size of a vector** (a **non-negative** number). It has a form of different functions, suitable for different situations.  
     The norm is defined such that:  
     - ![Formula](/Formulas/f22.png)   if x is nonzero. 
     - ![Formula](/Formulas/f23.png)   triangle inequality   
