@@ -72,8 +72,12 @@ A set of numbers that can identify a point in space.
     - ![Formula](/Formulas/f24.png), where lamba is a scalar  
     
 	Most common norms:
-    - L^1
-    - L^2
+    - **L^1 (Manhattan norm)**  
+    ![Formula](/Formulas/f26.png)  
+    ![ManhattanNorm](/Images/ManhattanNorm.png) 
+      
+    - L^2 (Euclidean norm)  
+    ![Formula](/Formulas/f25.png)  
     - L^3
     - L^4
     - Max norm
