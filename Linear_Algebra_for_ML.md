@@ -66,7 +66,10 @@ A set of numbers that can identify a point in space.
   
 -	### Vector norm _(Норма вектора)_  
 	Norm is a tool that allows us to measure the size of a vector (non-negative number). It has a form of different functions, sutable for different situations.  
-	
+    The norm is defined such that:  
+    - ![Formula](/Formulas/f22.png)  if x is nonzero. 
+    - ![Formula](/Formulas/f23.png)   
+	![Formula](/Formulas/f21.png)  
     <br />  
     </a> 
     
