@@ -69,7 +69,7 @@ A set of numbers that can identify a point in space.
     The norm is defined such that:  
     - ![Formula](/Formulas/f22.png)   if x is nonzero. 
     - ![Formula](/Formulas/f23.png)   triangle inequality   
-    - ![Formula](/Formulas/f24.png)
+    - ![Formula](/Formulas/f24.png), where lamba is a scalar
 	 
     <br />  
     </a> 
