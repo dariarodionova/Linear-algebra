@@ -77,7 +77,7 @@ A set of numbers that can identify a point in space.
     ![ManhattanNorm](/Images/ManhattanNorm.png) 
       
     - L^2 (Euclidean norm)  
-    ![Formula](/Formulas/f25.png) 
+    ![Formula](/Formulas/f25.png)   
     ![EuclideanNorm](/Images/EuclideanNorm.png)  
     - L^3
     - L^4
