@@ -80,7 +80,7 @@ A set of numbers that can identify a point in space.
     ![Formula](/Formulas/f25.png)   
     ![EuclideanNorm](/Images/EuclideanNorm.png)  
     - Max norm  
-    ![Formula](/Formulas/f27.png) 
+    ![Formula](/Formulas/f27.png)  
     ![EuclideanNorm](/Images/MaxNorm.png)  
 	 
     <br />  
