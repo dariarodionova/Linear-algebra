@@ -79,7 +79,8 @@ A set of numbers that can identify a point in space.
     - **L^2 (Euclidean norm)**    
     ![Formula](/Formulas/f25.png)   
     ![EuclideanNorm](/Images/EuclideanNorm.png)  
-    - Max norm  
+      
+    - **Max norm**  
     ![Formula](/Formulas/f27.png)  
     ![EuclideanNorm](/Images/MaxNorm.png)  
 	 
