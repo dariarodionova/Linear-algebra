@@ -9,6 +9,7 @@
         5.[Vector addition](#VectorAddition)  
         6.[Linear Combination](#LinearCombination)  
         7.[Linear dependance](#LinearDependance)  
+        8.[Span](#Span)
         
 - **[Matrix](#Matrix)**  
 		1.[Identity Matrix](#IdentityMatrix)  
