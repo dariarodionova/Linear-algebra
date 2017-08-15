@@ -76,11 +76,11 @@ A set of numbers that can identify a point in space.
     ![Formula](/Formulas/f26.png)  
     ![ManhattanNorm](/Images/ManhattanNorm.png) 
       
-    - L^2 (Euclidean norm)  
-    ![Formula](/Formulas/f25.png)  
-    - L^3
-    - L^4
-    - Max norm
+    - **L^2 (Euclidean norm)**    
+    ![Formula](/Formulas/f25.png)   
+    ![EuclideanNorm](/Images/EuclideanNorm.png)  
+    - Max norm  
+    ![Formula](/Formulas/f27.png)     
 	 
     <br />  
     </a> 
