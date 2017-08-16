@@ -1,6 +1,6 @@
 ## Table of contents  
 
-- **[Vector](Vector)**  
+- ###[Vector](Vector)  
 		- [Unit Vector](#UnitVector)  
         - [Orthogonal Vector](#OrthogonalVector)  
         - [Orthonormal Vector](#OrthonormalVector)  
