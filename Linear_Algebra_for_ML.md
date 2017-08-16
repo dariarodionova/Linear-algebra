@@ -9,7 +9,7 @@
         - [Linear dependance](#LinearDependance)  
         - [Span](#Span)  
        <br /> 
-        [Operations with vectors](#VectorOperations) 
+        **[Operations with vectors](#VectorOperations)** 
         - [Vector norm](#VectorNorm)  
         - [Vector addition](#VectorAddition)  
         - [Dot Product](#VectorDotProduct)  
