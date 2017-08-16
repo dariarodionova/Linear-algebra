@@ -25,7 +25,7 @@
 
 - **[Matrix as a Linear Transformation](#LinearTransformation)**  
 		- [Matrix Inverse](#MatrixInverse)  
-        - [Matrix Pseudoinverse](#MatrixPseudoinverse)  
+        - [Matrix Pseudoinverse](#MatrixPseudoinverse)*  
         - [Determinant](#Determinant)    
         - [Singular Matrix](#SingularMatrix)    
         - [Nonsingular Matrix](#NonsingularMatrix)  
