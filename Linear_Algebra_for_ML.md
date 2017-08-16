@@ -112,13 +112,15 @@ A set of numbers that can identify a point in space.
 	![Formula](/Formulas/f20.png)   
     <br />   
     
+  -	### Vector Product / Cross Product _(Векторное произведение)_  
+	 
+    <br /> 
+    
  -	### Dot Product / Scalar Product _(Скалярное произведение)_  
 	 
     <br />   
     
-  -	### Vector Product / Cross Product _(Векторное произведение)_  
-	 
-    <br />   
+  
     
     
     </a>  
