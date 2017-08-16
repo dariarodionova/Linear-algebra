@@ -16,10 +16,10 @@
         - [Cross Product](#VectorCrossProduct)  
         
 - **[Matrix](#Matrix)**  
-		1.[Identity Matrix](#IdentityMatrix)  
-        2.[Diagonal Matrix](#DiagonalMatrix)  
-        3.[Matrix Transpose](#MatrixTranspose)  
-        4.[Symmetric Matrix](#SymmetricMatrix)  
+		- [Identity Matrix](#IdentityMatrix)  
+        - [Diagonal Matrix](#DiagonalMatrix)  
+        - [Matrix Transpose](#MatrixTranspose)  
+        - [Symmetric Matrix](#SymmetricMatrix)  
         
 - **[Tensor](#Tensor)**  
 
