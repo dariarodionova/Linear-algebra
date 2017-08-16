@@ -9,11 +9,11 @@
         5.[Vector addition](#VectorAddition)  
         6.[Linear Combination](#LinearCombination)  
         7.[Linear dependance](#LinearDependance)  
-        8.[Span](#Span)
+        8.[Span](#Span)  
         __  
-        9.[VectorOperations](#VectorOperations)
-        - [DotProduct](#VectorDotProduct)
-        - [CrossProduct](#VectorCrossProduct)
+        9.[VectorOperations](#VectorOperations)  
+        - [DotProduct](#VectorDotProduct)  
+        - [CrossProduct](#VectorCrossProduct)  
         
 - **[Matrix](#Matrix)**  
 		1.[Identity Matrix](#IdentityMatrix)  
