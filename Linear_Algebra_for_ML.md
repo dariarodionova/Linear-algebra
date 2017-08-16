@@ -6,14 +6,14 @@
         - [Orthonormal Vector](#OrthonormalVector)  
        <br /> 
         - [Linear Combination](#LinearCombination)  
-        - [Linear Dependance](#LinearDependance)  
-        - [Span](#Span)  
+        - [Linear Dependance](#LinearDependance)*  
+        - [Span](#Span)*  
        <br /> 
         **[Operations with vectors](#VectorOperations)**    
         - [Vector Norm](#VectorNorm)  
         - [Vector Addition](#VectorAddition)  
-        - [Dot Product](#VectorDotProduct)  
-        - [Cross Product](#VectorCrossProduct)  
+        - [Dot Product](#VectorDotProduct)*  
+        - [Cross Product](#VectorCrossProduct)*  
         
 - **[Matrix](#Matrix)**  
 		- [Identity Matrix](#IdentityMatrix)  
