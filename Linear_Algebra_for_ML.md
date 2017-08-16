@@ -4,11 +4,11 @@
 		- [Unit Vector](#UnitVector)  
         - [Orthogonal Vector](#OrthogonalVector)  
         - [Orthonormal Vector](#OrthonormalVector)  
-        __  
+       <br /> 
         - [Linear Combination](#LinearCombination)  
         - [Linear dependance](#LinearDependance)  
         - [Span](#Span)  
-        __  
+       <br /> 
         [Operations with vectors](#VectorOperations) 
         - [Vector norm](#VectorNorm)  
         - [Vector addition](#VectorAddition)  
