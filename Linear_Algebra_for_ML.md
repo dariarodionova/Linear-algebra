@@ -110,9 +110,13 @@ A set of numbers that can identify a point in space.
     
  -	### Linear Combination _(Линейная комбинация)_  
 	![Formula](/Formulas/f20.png)   
+    <br />  
+    
+ -	### Linear Dependance _()_  
+	 
     <br />   
     
-  -	### Vector Product / Cross Product _(Векторное произведение)_  
+ -	### Vector Product / Cross Product _(Векторное произведение)_  
 	 
     <br /> 
     
