@@ -5,13 +5,13 @@
         - [Orthogonal Vector](#OrthogonalVector)  
         - [Orthonormal Vector](#OrthonormalVector)  
         __  
-        - [Vector norm](#VectorNorm)  
-        - [Vector addition](#VectorAddition)  
         - [Linear Combination](#LinearCombination)  
         - [Linear dependance](#LinearDependance)  
         - [Span](#Span)  
         __  
-        [Operations with vectors](#VectorOperations)  
+        [Operations with vectors](#VectorOperations) 
+        - [Vector norm](#VectorNorm)  
+        - [Vector addition](#VectorAddition)  
         - [Dot Product](#VectorDotProduct)  
         - [Cross Product](#VectorCrossProduct)  
         
