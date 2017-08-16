@@ -1,19 +1,19 @@
 ## Table of contents  
 
 - **[Vector](#Vector)**  
-		1.[Unit Vector](#UnitVector)  
-        2.[Orthogonal Vector](#OrthogonalVector)  
-        3.[Orthonormal Vector](#OrthonormalVector)  
+		- [Unit Vector](#UnitVector)  
+        - [Orthogonal Vector](#OrthogonalVector)  
+        - [Orthonormal Vector](#OrthonormalVector)  
         __  
-        4.[Vector norm](#VectorNorm)  
-        5.[Vector addition](#VectorAddition)  
-        6.[Linear Combination](#LinearCombination)  
-        7.[Linear dependance](#LinearDependance)  
-        8.[Span](#Span)  
+        - [Vector norm](#VectorNorm)  
+        - [Vector addition](#VectorAddition)  
+        - [Linear Combination](#LinearCombination)  
+        - [Linear dependance](#LinearDependance)  
+        - [Span](#Span)  
         __  
-        9.[VectorOperations](#VectorOperations)  
-        - [DotProduct](#VectorDotProduct)  
-        - [CrossProduct](#VectorCrossProduct)  
+        [Operations with vectors](#VectorOperations)  
+        - [Dot Product](#VectorDotProduct)  
+        - [Cross Product](#VectorCrossProduct)  
         
 - **[Matrix](#Matrix)**  
 		1.[Identity Matrix](#IdentityMatrix)  
