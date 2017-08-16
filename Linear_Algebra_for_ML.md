@@ -5,7 +5,7 @@
         - [Orthogonal Vector](#OrthogonalVector)  
         - [Orthonormal Vector](#OrthonormalVector)  
        <br /> 
-        - [Linear Combination](#LinearCombination)  
+        - [Linear Combination](#LinearCombination)*  
         - [Linear Dependance](#LinearDependance)*  
         - [Span](#Span)*  
        <br /> 
