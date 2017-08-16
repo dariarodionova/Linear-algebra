@@ -24,12 +24,14 @@
 - **[Tensor](#Tensor)**  
 
 - **[Matrix as a Linear Transformation](#LinearTransformation)**  
-		1.[Matrix Inverse](#MatrixInverse)  
-        2.[Determinant](#Determinant)  
+		- [Matrix Inverse](#MatrixInverse)
+        - [Matrix Pseudoinverse](#MatrixPseudoinverse)
+        - [Determinant](#Determinant)  
         3.[Singular Matrix](#SingularMatrix)    
         4.[Nonsingular Matrix](#NonsingularMatrix)  
-        - [Matrix Product](#MatrixProduct)
-        - [Hadamard Product](#HadamardProduct)
+        - [Matrix Product](#MatrixProduct)  
+        - [Hadamard Product](#HadamardProduct)  
+        - [
 
 
 # Scalar _(Скаляр)_
