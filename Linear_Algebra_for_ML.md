@@ -100,7 +100,7 @@ A set of numbers that can identify a point in space.
     
     <a name="VectorAddition"> 
   
--	### Vector Dddition _(Сложение векторов)_  
+-	### Vector Addition _(Сложение векторов)_  
 	When we add two vectors, we get a resulting vector which represents a motion in the direction of the first vector and then the second vector (or vice versa).  
 	![VectorAddition](/Images/VectorAddition.png)  
     <br />  
