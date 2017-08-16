@@ -110,7 +110,18 @@ A set of numbers that can identify a point in space.
     
  -	### Linear Combination _(Линейная комбинация)_  
 	![Formula](/Formulas/f20.png)   
-          
+    <br />   
+    
+ -	### Dot Product _(Сложение векторов)_  
+	 
+    <br />   
+    
+  -	### Cross Product _(Сложение векторов)_  
+	 
+    <br />   
+    
+    
+    </a>  
     <br />
     <br />  
     <br /> 
