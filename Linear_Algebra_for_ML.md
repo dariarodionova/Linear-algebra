@@ -33,7 +33,7 @@
         - [Hadamard Product](#HadamardProduct)    
         - [Trace Operator](#TraceOperator)  
         - [Eigendecomposition](#Eigendecomposition)  
-        - [Singular Value Decomposition](#SingularValueDecomposition)
+        - [Singular Value Decomposition](#SingularValueDecomposition)  
 
 
 # Scalar _(Скаляр)_
