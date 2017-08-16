@@ -4,13 +4,13 @@
 		1.[Unit Vector](#UnitVector)  
         2.[Orthogonal Vector](#OrthogonalVector)  
         3.[Orthonormal Vector](#OrthonormalVector)  
-        __
+        __  
         4.[Vector norm](#VectorNorm)  
         5.[Vector addition](#VectorAddition)  
         6.[Linear Combination](#LinearCombination)  
         7.[Linear dependance](#LinearDependance)  
         8.[Span](#Span)
-        __
+        __  
         9.[VectorOperations](#VectorOperations)
         - [DotProduct](#VectorDotProduct)
         - [CrossProduct](#VectorCrossProduct)
