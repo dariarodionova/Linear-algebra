@@ -6,12 +6,12 @@
         - [Orthonormal Vector](#OrthonormalVector)  
        <br /> 
         - [Linear Combination](#LinearCombination)  
-        - [Linear dependance](#LinearDependance)  
+        - [Linear Dependance](#LinearDependance)  
         - [Span](#Span)  
        <br /> 
         **[Operations with vectors](#VectorOperations)**    
-        - [Vector norm](#VectorNorm)  
-        - [Vector addition](#VectorAddition)  
+        - [Vector Norm](#VectorNorm)  
+        - [Vector Addition](#VectorAddition)  
         - [Dot Product](#VectorDotProduct)  
         - [Cross Product](#VectorCrossProduct)  
         
@@ -27,7 +27,9 @@
 		1.[Matrix Inverse](#MatrixInverse)  
         2.[Determinant](#Determinant)  
         3.[Singular Matrix](#SingularMatrix)    
-        4.[Nonsingular Matrix](#NonsingularMatrix)
+        4.[Nonsingular Matrix](#NonsingularMatrix)  
+        - [Matrix Product](#MatrixProduct)
+        - [Hadamard Product](#HadamardProduct)
 
 
 # Scalar _(Скаляр)_
