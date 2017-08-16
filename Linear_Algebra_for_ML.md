@@ -60,7 +60,7 @@ A set of numbers that can identify a point in space.
     
 <a name="OrthogonalVector"> 
   
--	### Orthogonal vectors _(Ортогональные векторы)_
+-	### Orthogonal Vectors _(Ортогональные векторы)_
 	Vector _**x**_ and vector _**y**_ are **orthogonal** (perpendicular) to each other if![Formula](/Formulas/f4.png) (their dot product 		equals 0). If both vectors have nonzero norm and their dot product 		equals 0, then they are 			perpendicular to each other.   
 	![OrthogonalVectors](/Images/OrthogonalVectors.png)
     <br />   
@@ -68,14 +68,14 @@ A set of numbers that can identify a point in space.
     
     <a name="OrthonormalVector">
   
--	### Orthonormal vectors _(Ортонормированные векторы)_
+-	### Orthonormal Vectors _(Ортонормированные векторы)_
 	Vector _**x**_ and vector _**y**_ are **orthonormal** if they are _orthogonal_ and have _unit norm_.
     ![OrthonormalVectors](/Images/OrthonormalVectors.gif)
     <br />    
       
      <a name="VectorNorm"> 
   
--	### Vector norm _(Норма вектора)_  
+-	### Vector Norm _(Норма вектора)_  
 	Norm ![Formula](/Formulas/f21.png) is a **tool** that allows us to measure the **size of a vector** (a **non-negative** number). It has a form of different functions, suitable for different situations.  
     The norm is defined such that:  
     - ![Formula](/Formulas/f22.png)   if x is nonzero. 
@@ -100,7 +100,7 @@ A set of numbers that can identify a point in space.
     
     <a name="VectorAddition"> 
   
--	### Vector addition _(Сложение векторов)_  
+-	### Vector Dddition _(Сложение векторов)_  
 	When we add two vectors, we get a resulting vector which represents a motion in the direction of the first vector and then the second vector (or vice versa).  
 	![VectorAddition](/Images/VectorAddition.png)  
     <br />  
@@ -112,11 +112,11 @@ A set of numbers that can identify a point in space.
 	![Formula](/Formulas/f20.png)   
     <br />   
     
- -	### Dot Product _(Сложение векторов)_  
+ -	### Dot Product / Scalar Product _(Скалярное произведение)_  
 	 
     <br />   
     
-  -	### Cross Product _(Сложение векторов)_  
+  -	### Vector Product / Cross Product _(Векторное произведение)_  
 	 
     <br />   
     
@@ -140,7 +140,7 @@ A matrix is a 2-D set of numbers size of m*n. Ex.:
 
 <a name="IdentityMatrix">  
   
--	### Identity matrix _(Единичная матрица)_
+-	### Identity Matrix _(Единичная матрица)_
 	An identity matrix is such a matrix, that if we multiply a vector on **that matrix**, the vector won't change. It is also such a **square** matrix that has ones on the main diagonal and zeros everywhere else.  
 	![Formula](/Formulas/f9.png)  
     ![Formula](/Formulas/f10.png)  
@@ -149,14 +149,14 @@ A matrix is a 2-D set of numbers size of m*n. Ex.:
   	<br />   
     <a name="DiagonalMatrix">  
       
--	### Diagonal matrix _(Диагональная матрица)_
+-	### Diagonal Matrix _(Диагональная матрица)_
 	Diagonal matrix has values on the main diagonal and zeros everywhere else. Matrix is diagonal **if and only if** Dij = 0 for all i **unequal** to j. A **rectangular** matrix can also be diagonal.     
 	![Matrix](/Images/DiagonalMatrix.png)  
     </a>
     <br />   
     <a name="MatrixTranspose">  
     
- -	### Matrix transpose _(Транспонированная матрица)_  
+ -	### Matrix Transpose _(Транспонированная матрица)_  
  	A transpose is an operation of mirroring a matrix across **main diagonal** (from upper left corner to a 	lower right corner).  
  	![Formula](/Formulas/f11.png)  
  	![Formula](/Formulas/f12.png)  
@@ -165,7 +165,7 @@ A matrix is a 2-D set of numbers size of m*n. Ex.:
     <br />   
 	<a name="SymmetricMatrix"> 
 
--	### Symmetric matrix _(Симметричная матрица)_
+-	### Symmetric Matrix _(Симметричная матрица)_
 	A symmetric matrix is a matrix that is **equal** to it's **own transpose**.  
 	![Formula](/Formulas/f8.png)  
 	![Matrix](/Images/SymmetricMatrix.gif)  
@@ -224,7 +224,7 @@ The **matrix** on the **right** in this situation **is** a **location where unit
     
     <a name="SingularMatrix">
      
--	### Singular matrix / Noninvertable matrix _(Вырожденная, особенная, сингулярная матрица)_
+-	### Singular Matrix / Noninvertable Matrix _(Вырожденная, особенная, сингулярная матрица)_
 	A square matrix is singular if it has **no inverse**, because it's **determinant** equals **0**.  
   	![Formula](/Formulas/f13.png)  
     Examples of singular matrices:  
@@ -234,5 +234,5 @@ The **matrix** on the **right** in this situation **is** a **location where unit
     
     <a name="NonsingularMatrix">  
       
-- 	### Nonsingular matrix / Invertable matrix _(Невырожденная, неособенная матрица)_
+- 	### Nonsingular Matrix / Invertable matrix _(Невырожденная, неособенная матрица)_
 	A square matrix is **NOT** singular. It **has inverse**, because it's **determinant** is **nonzero**.
