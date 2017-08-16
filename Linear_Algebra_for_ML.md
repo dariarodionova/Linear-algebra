@@ -116,6 +116,10 @@ A set of numbers that can identify a point in space.
 	 
     <br />   
     
+  -	### Span _()_  
+	 
+    <br /> 
+    
  -	### Vector Product / Cross Product _(Векторное произведение)_  
 	 
     <br /> 
