@@ -27,8 +27,8 @@
 		- [Matrix Inverse](#MatrixInverse)
         - [Matrix Pseudoinverse](#MatrixPseudoinverse)
         - [Determinant](#Determinant)  
-        3.[Singular Matrix](#SingularMatrix)    
-        4.[Nonsingular Matrix](#NonsingularMatrix)  
+        - [Singular Matrix](#SingularMatrix)    
+        - [Nonsingular Matrix](#NonsingularMatrix)  
         - [Matrix Product](#MatrixProduct)  
         - [Hadamard Product](#HadamardProduct)  
         - [
