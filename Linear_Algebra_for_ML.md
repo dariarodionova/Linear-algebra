@@ -212,7 +212,7 @@ The **matrix** on the **right** in this situation **is** a **location where unit
      
      <a name="Determinant"> 
       
-  -	### Determinant _(Определитель, детерминант)_  
+ -	### Determinant _(Определитель, детерминант)_  
   	**Determinant** is a **tool** that allows us to **learn** about **properties** of a **square matrix**. The value of the determinant can be positive, negative or zero.  
     ![Formula](/Formulas/f19.png)  
       
@@ -243,4 +243,6 @@ The **matrix** on the **right** in this situation **is** a **location where unit
       
 - 	### Nonsingular Matrix / Invertable matrix _(Невырожденная, неособенная матрица)_
 	A square matrix is **NOT** singular. It **has inverse**, because it's **determinant** is **nonzero**.         
-  -	### Matrix Pseudoinverse _(Псевдообратная матрица)_  
+      
+    <a name="MatrixPseudoinverse">     
+-	### Matrix Pseudoinverse _(Псевдообратная матрица)_  
