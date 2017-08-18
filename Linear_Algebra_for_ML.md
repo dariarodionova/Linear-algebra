@@ -25,11 +25,11 @@
 
 - **[Matrix as a Linear Transformation](#LinearTransformation)**  
 		- [Matrix Inverse](#MatrixInverse)  
-        - [Determinant](#Determinant)    
-        - [Singular Matrix](#SingularMatrix)    
-        - [Nonsingular Matrix](#NonsingularMatrix)
-        - [Matrix Pseudoinverse](#MatrixPseudoinverse)* 
-        - [Matrix Product](#MatrixProduct)*  
+        - [Determinant](#Determinant)     
+        - [Singular Matrix](#SingularMatrix)      
+        - [Nonsingular Matrix](#NonsingularMatrix)  
+        - [Matrix Pseudoinverse](#MatrixPseudoinverse)*   
+        - [Matrix Product](#MatrixProduct)*    
         - [Hadamard Product](#HadamardProduct)*    
         - [Trace Operator](#TraceOperator)*  
         - [Eigendecomposition](#Eigendecomposition)*  
