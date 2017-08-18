@@ -25,10 +25,10 @@
 
 - **[Matrix as a Linear Transformation](#LinearTransformation)**  
 		- [Matrix Inverse](#MatrixInverse)  
-        - [Matrix Pseudoinverse](#MatrixPseudoinverse)*  
         - [Determinant](#Determinant)    
         - [Singular Matrix](#SingularMatrix)    
-        - [Nonsingular Matrix](#NonsingularMatrix)  
+        - [Nonsingular Matrix](#NonsingularMatrix)
+        - [Matrix Pseudoinverse](#MatrixPseudoinverse)* 
         - [Matrix Product](#MatrixProduct)*  
         - [Hadamard Product](#HadamardProduct)*    
         - [Trace Operator](#TraceOperator)*  
@@ -208,9 +208,7 @@ The **matrix** on the **right** in this situation **is** a **location where unit
     _**Why do we need it?**_  
     It is straightforward how to solve x*c = y if we are dealing with scalars. If we are solving for x, we just multiply y by the inverse of c, which is 1/c. The same solving principle applies when solving equations with matricies and vectors, but how does the matrix inverse look like? It is another matrix with special values. 
      <br />    
-     
-  -	### Matrix Pseudoinverse _()_  
-  	 
+ 
      
      <a name="Determinant"> 
       
@@ -244,4 +242,5 @@ The **matrix** on the **right** in this situation **is** a **location where unit
     <a name="NonsingularMatrix">  
       
 - 	### Nonsingular Matrix / Invertable matrix _(Невырожденная, неособенная матрица)_
-	A square matrix is **NOT** singular. It **has inverse**, because it's **determinant** is **nonzero**.
+	A square matrix is **NOT** singular. It **has inverse**, because it's **determinant** is **nonzero**.         
+  -	### Matrix Pseudoinverse _(Псевдообратная матрица)_  
