@@ -246,4 +246,4 @@ The **matrix** on the **right** in this situation **is** a **location where unit
       
     <a name="MatrixPseudoinverse">     
 -	### Matrix Pseudoinverse _(Псевдообратная матрица)_  
-  	While **singular matrix has no inverse**, it is possible to construct a **pseudoinverse**![Formula](/Formulas/f28.png) for a **rectangular** matrix.
+  	While **singular matrix has no inverse**, it is possible to construct a **pseudoinverse**![Formula](/Formulas/f28.png) for a **rectangular** or *singular square* matrix.
