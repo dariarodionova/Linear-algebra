@@ -110,19 +110,28 @@ A set of numbers that can identify a point in space.
     
  -	### Linear Combination _(Линейная комбинация)_  
 	![Formula](/Formulas/f20.png)   
-    <br />  
+    <br />    
     
- -	### Linear Dependance _()_  
+     <a name="LinearDependance">  
+  
+ -	### Linear Dependance _(Линейная зависимость)_  
 	 
     <br />   
-    
+     
+     
+	<a name="Span"> 
+  
   -	### Span _()_  
-	 
+	 The span of a set of vectors is a set of all point obtained by a linear combination of the original vectors.
     <br /> 
+    
+    <a name="VectorProduct">  
     
  -	### Vector Product / Cross Product _(Векторное произведение)_  
 	 
     <br /> 
+    
+    <a name="DotProduct">  
     
  -	### Dot Product / Scalar Product _(Скалярное произведение)_  
 	 
