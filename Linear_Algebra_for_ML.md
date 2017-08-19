@@ -88,7 +88,8 @@ A set of numbers that can identify a point in space.
     ![Formula](/Formulas/f26.png)  
     ![ManhattanNorm](/Images/ManhattanNorm.png) 
       
-    - **L^2 (Euclidean norm)**    
+    - **L^2 (Euclidean norm)**   
+    This norm is calculated as a root of a sum of squares of all values in vector.
     ![Formula](/Formulas/f25.png)   
     ![EuclideanNorm](/Images/EuclideanNorm.png)  
       
