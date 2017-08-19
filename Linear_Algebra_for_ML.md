@@ -89,11 +89,12 @@ A set of numbers that can identify a point in space.
     ![ManhattanNorm](/Images/ManhattanNorm.png) 
       
     - **L^2 (Euclidean norm)**   
-    This norm is calculated as a root of a sum of squares of all values in vector.
+    This norm is calculated as a root of a sum of squares of all values in a vector.  
     ![Formula](/Formulas/f25.png)   
     ![EuclideanNorm](/Images/EuclideanNorm.png)  
       
     - **Max norm**  
+    This norm is just a max absolute value of a vector.  
     ![Formula](/Formulas/f27.png)  
     ![EuclideanNorm](/Images/MaxNorm.png)  
 	 
