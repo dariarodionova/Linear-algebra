@@ -84,6 +84,7 @@ A set of numbers that can identify a point in space.
     
 	Most common norms:
     - **L^1 (Manhattan norm)**  
+    This norm is calculated as a sum of absolute values in a vector.  
     ![Formula](/Formulas/f26.png)  
     ![ManhattanNorm](/Images/ManhattanNorm.png) 
       
