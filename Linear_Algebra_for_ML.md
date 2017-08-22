@@ -20,6 +20,7 @@
         - [Diagonal Matrix](#DiagonalMatrix)  
         - [Matrix Transpose](#MatrixTranspose)  
         - [Symmetric Matrix](#SymmetricMatrix)  
+        - [Normal Matrix](#NormalMatrix)*
         
 - **[Tensor](#Tensor)**  
 
